@@ -40,7 +40,7 @@ jobs:
 
       - name: Clean remote directory
         run: |
-          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@115.231.176.242 "rm -rf /www/wwwroot/linking-et/* && mkdir -p /www/wwwroot/blog"
+          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@115.231.176.242 "rm -rf /www/wwwroot/linking-et/* && mkdir -p /www/wwwroot/linking-et"
 
       - name: Upload built site with rsync
         run: |
@@ -49,6 +49,6 @@ jobs:
       - name: Fix ownership and permissions on remote server
         run: |
           ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@115.231.176.242 "
-            chown -R www:www /www/wwwroot/blog
-            chmod -R 755 /www/wwwroot/blog
+            chown -R www:www /www/wwwroot/linking-et
+            chmod -R 755 /www/wwwroot/linking-et
           "
