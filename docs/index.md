@@ -9,17 +9,24 @@ hero:
   actions:
     - theme: brand
       text: 了解我们
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      link: /docs/info
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Kimi的万事屋
+    details: 主服描述
+    link: /docs/kimi
+    linkText: 了解一下
+  - title: 淡水之域
+    details: 淡水之域建议描述
+    link: /docs/water
+    linkText: 了解一下
+  - title: 叶服
+    details: 叶服描述
+    link: /docs/ye
+    linkText: 了解一下
+  - title: 呦呦的后花园
+    details: 呦呦的后花园描述
+    link: /docs/you
+    linkText: 了解一下
 ---
 
