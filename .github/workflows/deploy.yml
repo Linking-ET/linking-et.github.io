@@ -44,11 +44,11 @@ jobs:
 
       - name: Upload built site with rsync
         run: |
-          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22" ./docs/.vitepress/dist/ root115.231.176.242:/www/wwwroot/linking-et/
+          rsync -avz --delete -e "ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22" ./docs/.vitepress/dist/ root@115.231.176.242:/www/wwwroot/linking-et/
 
       - name: Fix ownership and permissions on remote server
         run: |
-          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root115.231.176.242 "
+          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@115.231.176.242 "
             chown -R www:www /www/wwwroot/blog
             chmod -R 755 /www/wwwroot/blog
           "
