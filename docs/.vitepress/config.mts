@@ -6,7 +6,7 @@ import {sidebar} from '../config/sidebar'
 export default defineConfig({
   lang: 'zh-Hans',
   title: "LinKing-ET",
-  description: "A VitePress Site",
+  description: "欢迎加入LET万事屋群组服！",
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
