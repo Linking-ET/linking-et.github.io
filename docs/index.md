@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "LinKing-ET"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "欢迎来到LET群组服！"
+  tagline: 官网制作中
   actions:
     - theme: brand
       text: 了解我们
@@ -13,7 +13,7 @@ hero:
 
 features:
   - title: Kimi的万事屋
-    details: 主服描述
+    details: 描述想起来再写
     link: /docs/kimi
     linkText: 了解一下
   - title: 淡水之域
