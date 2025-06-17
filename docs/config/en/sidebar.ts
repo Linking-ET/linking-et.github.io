@@ -1,15 +1,15 @@
 export const sidebar = {
         '/en/docs/info': [
             {
-                text: '了解我们',
+                text: 'about us',
                 items: [
-                    { text: '我们是谁？', link: '/docs/' },
+                    { text: 'Who are we？', link: '/docs/' },
                 ]
             }
         ],
         '/en/docs/kimi': [
             {
-                text: 'Kimi的万事屋',
+                text: 'Kimi home',
                 items: [
                     { text: 'Index', link: '/docs/kimi/' }
                 ]
@@ -17,7 +17,7 @@ export const sidebar = {
         ],
         '/en/docs/water/': [
             {
-                text: '淡水之域',
+                text: 'Freshwater region',
                 items:[
                     { text: 'Index', link: '/docs/water/' }
                 ]
