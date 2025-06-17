@@ -5,5 +5,9 @@ export const CustomTexts = {
     editLink: {
         pattern: 'https://github.com/LinKing-ET/linking-et.github.io/edit/main/docs/:path',
     },
+    footer:{
+        message:'Released under the <a href="https://github.com/Linking-ET/linking-et.github.io/blob/main/LICENSE" target="_blank">GNU General Public License v3.0</a>',
+        copyright:'Copyright © 2025 LiKing-ET All rights reserved.',
+    },
 
 };

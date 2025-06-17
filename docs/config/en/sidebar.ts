@@ -3,7 +3,7 @@ export const sidebar = {
             {
                 text: 'about us',
                 items: [
-                    { text: 'Who are we？', link: '/docs/' },
+                    { text: 'Who are we？', link: '/en/docs/info/' },
                 ]
             }
         ],
@@ -11,7 +11,7 @@ export const sidebar = {
             {
                 text: 'Kimi home',
                 items: [
-                    { text: 'Index', link: '/docs/kimi/' }
+                    { text: 'Index', link: '/en/docs/kimi/' }
                 ]
             }
         ],
@@ -19,7 +19,7 @@ export const sidebar = {
             {
                 text: 'Freshwater region',
                 items:[
-                    { text: 'Index', link: '/docs/water/' }
+                    { text: 'Index', link: '/en/docs/water/' }
                 ]
             }
         ]

@@ -31,7 +31,7 @@ export const CustomTexts = {
     darkModeSwitchTitle: '切换到深色模式',
     skipToContentLabel: '跳转到内容',
     footer:{
-        message:'本网站以<a href="https://github.com/Linking-ET/linking-et.github.io/blob/main/LICENSE" target="_blank">GNU General Public License v3.0</a>的条款发布。',
-        copyright:'Copyright © 2025 LiKing-ET 保留所有权利。',
+        message:'本网站以<a href="https://github.com/Linking-ET/linking-et.github.io/blob/main/LICENSE" target="_blank">GNU General Public License v3.0</a>的条款发布.',
+        copyright:'Copyright © 2025 LiKing-ET All rights reserved.',
     },
 };

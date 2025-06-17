@@ -3,7 +3,7 @@ export const sidebar = {
             {
                 text: '了解我们',
                 items: [
-                    { text: '我们是谁？', link: '/docs/' },
+                    { text: '我们是谁？', link: '/docs/info/' },
                 ]
             }
         ],

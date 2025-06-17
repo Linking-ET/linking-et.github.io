@@ -9,24 +9,24 @@ hero:
   actions:
     - theme: brand
       text: "about us"
-      link: /docs/info
+      link: /en/docs/info
 
 features:
   - title: Kimi home
     details: a mod server
-    link: /docs/kimi
+    link: /en/docs/kimi
     linkText: learn more
   - title: Freshwater region
     details: a mod server
-    link: /docs/water
+    link: /en/docs/water
     linkText: learn more
   - title: Leaf page
     details: a mod server
-    link: /docs/ye
+    link: /en/docs/ye
     linkText: learn more
   - title: Yoyo backyards
     details: a plugin server
-    link: /docs/you
+    link: /en/docs/you
     linkText: learn more
 ---
 
