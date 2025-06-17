@@ -11,7 +11,7 @@ export const sidebar = {
             {
                 text: 'Kimi的万事屋',
                 items: [
-                    { text: 'Index', link: '/docs/kimi/' }
+                    { text: '简介', link: '/docs/kimi/' }
                 ]
             }
         ],
