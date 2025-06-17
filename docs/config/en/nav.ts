@@ -1,15 +1,15 @@
 import {DefaultTheme} from "vitepress";
 
 export const nav: DefaultTheme.NavItem[] = [
-    { text: '主页', link: '/en' },
-    {text: '了解我们',link: '/en/docs/info/about'},
+    { text: 'main page', link: '/en' },
+    {text: 'about us',link: '/en/docs/info/about'},
     {
-        text: '服务器列表',
+        text: 'server list',
         items: [
-            { text: 'Kimi的万事屋', link: '/en/docs/kimi' },
-            { text: '淡水之域', link: '/en/docs/water' },
-            { text: '叶服',link: '/en/docs/ye' },
-            { text: '呦呦的后花园',link: '/en/docs/yoyo' }
+            { text: 'Kimi home', link: '/en/docs/kimi' },
+            { text: 'freshwater region', link: '/en/docs/water' },
+            { text: 'leaf page',link: '/en/docs/ye' },
+            { text: 'yoyo backyard',link: '/en/docs/yoyo' }
         ]
     }
 ];
