@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "LinKing-ET"
   text: "Welcome to LET Server Group!"
-  tagline: "Website making in Progress..."
+  tagline: "Website working in Progress..."
   actions:
     - theme: brand
       text: "about us"
@@ -13,19 +13,19 @@ hero:
 
 features:
   - title: Kimi home
-    details: Kimi
+    details: a mod server
     link: /docs/kimi
     linkText: learn more
   - title: Freshwater region
-    details: Freshwater
+    details: a mod server
     link: /docs/water
     linkText: learn more
   - title: Leaf page
-    details: leaf
+    details: a mod server
     link: /docs/ye
     linkText: learn more
   - title: Yoyo backyards
-    details: yoyo
+    details: a plugin server
     link: /docs/you
     linkText: learn more
 ---
