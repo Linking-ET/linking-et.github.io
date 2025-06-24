@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 了解我们
       link: /docs/info
+    - theme: alt
+      text: 游玩教程
+      link: /docs/guide
 
 features:
   - title: Kimi的万事屋
