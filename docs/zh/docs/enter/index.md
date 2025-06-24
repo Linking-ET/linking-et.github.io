@@ -1,3 +1,5 @@
+# 游玩教程
+
 ## 1. 首次进服游玩
 linking-et群组服提供了三种验证方式:
 
@@ -7,8 +9,10 @@ linking-et群组服提供了三种验证方式:
 
 同时有两条进服通道:
 
-> 境内ip： **[cn.link-et.link]**<a id="jump_1"></a>
-> 境外ip： **[www.link-et.link]**
+- 境内ip： **[cn.link-et.link]**<a id="jump_1"></a>
+- 境外ip： **[www.link-et.link]**
+
+
 
 ## 2. 进服步骤
 
