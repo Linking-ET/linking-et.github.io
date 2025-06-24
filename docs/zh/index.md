@@ -29,7 +29,7 @@ features:
     linkText: 了解一下
   - title: 呦呦的后花园
     details: 呦呦的后花园描述
-    link: /docs/you/
+    link: /docs/yoyo/
     linkText: 了解一下
 ---
 
