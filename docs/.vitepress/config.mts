@@ -37,8 +37,9 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: '',
     i18nRouting: true,
+    logo: '/img/logo.png',
+    siteTitle: false,
   },
   rewrites: {
     'zh/:rest*': ':rest*'
