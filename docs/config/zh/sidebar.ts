@@ -22,6 +22,14 @@ export const sidebar = {
                     { text: 'Index', link: '/docs/water/' }
                 ]
             }
+        ],
+        '/docs/guide/':[
+            {
+                text:'游玩教程',
+                items:[
+                    {text:'入服教学', link: '/docs/guide/'}
+                ]
+            }
         ]
     }
 ;
