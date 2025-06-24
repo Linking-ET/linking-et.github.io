@@ -23,7 +23,7 @@ LinKing-ET群组服提供了三种验证方式:
 
 ### 2.2 java版
 - 根据你的设备选取启动器，这一步完全遵循个人喜好。手机可选FCL、Projav（已停更）等，Windows电脑可选HMCL、PCL2等精美启动器，Mac和Linux电脑可选择HMCL等可作为jar文件跨平台运行的启动器
-- 访问[客户端下载](link: '/docs/guide/modpack')获取你想游玩的服务器的整合包并安装在启动器内
+- 访问[客户端下载](https://link-et.link/docs/guide/modpack)获取你想游玩的服务器的整合包并安装在启动器内
 
 ## 3. 进服步骤
 
