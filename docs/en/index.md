@@ -6,10 +6,17 @@ hero:
   name: "LinKing-ET"
   text: "Welcome to LET Server Group!"
   tagline: "Website working in Progress..."
+  image:
+    src: /img/bgd_img/cover_full.png
+    alt: VitePress
   actions:
     - theme: brand
       text: "about us"
       link: /en/docs/info
+    - theme: alt
+      text: "guide"
+      link: /en/docs/guide
+
 
 features:
   - title: Kimi home
