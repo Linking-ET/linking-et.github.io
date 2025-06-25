@@ -38,7 +38,7 @@ export default defineConfig({
   },
   themeConfig: {
     i18nRouting: true,
-    logo: '/img/logo.png',
+    logo: '/res/img/logo.png',
     siteTitle: false,
   },
   rewrites: {

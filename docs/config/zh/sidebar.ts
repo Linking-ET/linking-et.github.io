@@ -1,9 +1,10 @@
 export const sidebar = {
-        '/docs/info': [
+        '/docs/about': [
             {
                 text: '了解我们',
                 items: [
-                    { text: '我们是谁？', link: '/docs/info/' },
+                    { text: '我们是谁？', link: '/docs/about/' },
+                    { text: '团队成员', link: '/docs/about/team' },
                 ]
             }
         ],
