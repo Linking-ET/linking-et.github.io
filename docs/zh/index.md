@@ -21,17 +21,17 @@ features:
   - title: Kimi的万事屋
     details: 欢迎光临！
     link: /docs/kimi/
-    linkText: 了解一下
+    linkText: 快点我快点我
   - title: 淡水之域
-    details: 淡水之域建议描述
+    details: 杂鱼淡水喵
     link: /docs/water/
     linkText: 了解一下
   - title: 叶服
-    details: 叶服描述
+    details: xc是小南娘吗？
     link: /docs/ye/
     linkText: 了解一下
   - title: 呦呦的后花园
-    details: 呦呦的后花园描述
+    details: 你好喵，欢迎喵
     link: /docs/yoyo/
     linkText: 了解一下
 ---
