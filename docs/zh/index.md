@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Kimi的万事屋
-    details: 描述想起来再写
+    details: 欢迎光临！
     link: /docs/kimi/
     linkText: 了解一下
   - title: 淡水之域
