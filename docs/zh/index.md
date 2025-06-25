@@ -7,7 +7,7 @@ hero:
   text: "欢迎来到LET群组服！"
   tagline: Link everything!
   image:
-    src: /img/logo.png
+    src: /img/bgd_img/cover_full.png
     alt: VitePress
   actions:
     - theme: brand
