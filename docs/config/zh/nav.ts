@@ -6,7 +6,7 @@ export const nav: DefaultTheme.NavItem[] = [
     { text: '主页', link: '/' },
     { text: '了解我们',
         items: [
-            { text: '简介', link: '/docs/about' },
+            { text: '我们是谁？', link: '/docs/about' },
             { text: '腐竹们', link: '/docs/about/team'}
         ]
     },
