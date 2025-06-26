@@ -10,7 +10,7 @@ import {
   VPTeamPageSection
 } from 'vitepress/theme';
 
-const Kimi_ops = [
+const ops = [
     {
     avatar:'https://www.sakura.fun/resource/avatar/1749393192-Kimimustbe29.png',
     name: 'Kimimaybe29',
@@ -30,7 +30,7 @@ const Kimi_ops = [
     ]
     }
 ];
-const Kimi_players = [
+const players = [
     {
     avatar:'https://www.sakura.fun/resource/avatar/1749393192-lanxiao1.png',
     name: 'lanxiao1',
@@ -46,13 +46,13 @@ const Kimi_players = [
 <VPTeamPageSection>
     <template #title>管理组</template>
     <template #members>
-      <VPTeamMembers size="medium" :members="Kimi_ops"></VPTeamMembers>
+      <VPTeamMembers size="medium" :members="ops"></VPTeamMembers>
     </template>
 </VPTeamPageSection>
 <VPTeamPageSection>
     <template #title>玩家们</template>
     <template #members>
-      <VPTeamMembers size="small" :members="Kimi_players"></VPTeamMembers>
+      <VPTeamMembers size="small" :members="players"></VPTeamMembers>
     </template>
 </VPTeamPageSection>
 </VPTeamPage>
