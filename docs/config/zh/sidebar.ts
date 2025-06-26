@@ -12,7 +12,8 @@ export const sidebar = {
             {
                 text: 'Kimi的万事屋',
                 items: [
-                    { text: '简介', link: '/docs/kimi/' }
+                    { text: '简介', link: '/docs/kimi/' },
+                    { text: '服务器成员', link: '/docs/kimi/team' },
                 ]
             }
         ],
@@ -20,7 +21,8 @@ export const sidebar = {
             {
                 text: '淡水之域',
                 items:[
-                    { text: 'Index', link: '/docs/water/' }
+                    { text: '简介', link: '/docs/water/' },
+                    { text: '服务器成员', link: '/docs/water/team' },
                 ]
             }
         ],
