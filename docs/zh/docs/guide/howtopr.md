@@ -11,4 +11,10 @@ outline: [2,3]
 
 ## fork仓库
 
-- 哎，又懒了，过会再写
+- 前往网页的[仓库](https://github.com/Linking-ET/linking-et.github.io)
+
+- 点击右上方的[fork](https://github.com/Linking-ET/linking-et.github.io/fork)按钮，创建一个属于你自己的分支
+
+- 等待一会，github会自动完成分支
+
+## 填写文档
