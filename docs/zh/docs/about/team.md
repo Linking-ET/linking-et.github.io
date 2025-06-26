@@ -22,11 +22,11 @@ const coreMembers_owners = [
     ]
     },
     {
-    avatar:'https://avatars.githubusercontent.com/u/80152431?v=4',
+    avatar:'https://avatars.githubusercontent.com/u/80152431',
     name: 'Lorien Yang',
     desc: '网站技术<br>皮肤站站长<br>论坛站长<br>代码最好的人',
     links: [
-        { icon: 'github', link: 'https://github.com/star-moon-night' },
+        { icon: 'github', link: 'https://github.com/lorienyang' },
         { icon: 'vitepress', link: 'https://www.sakuraonline.cn' },
         { icon: 'bilibili', link: 'https://space.bilibili.com/473089208' },
     ]
@@ -76,20 +76,6 @@ const coreMembers_ops = [
     ]
     },
 ];
-const coreMembers_players = [
-    {
-    avatar:'https://www.sakura.fun/resource/avatar/1749393192-lanxiao1.png',
-    name: 'lanxiao1',
-    },
-    {
-    avatar:'/res/avatar/sample.jpg',
-    name: 'sample',
-    desc: '这是一个用于展示的样本',
-    links: [
-    {icon: 'github', link: 'https://github.com/Linking-ET/linking-et.github.io'}
-    ]
-    },
-]
 </script>
 
 <VPTeamPage>
@@ -107,12 +93,6 @@ const coreMembers_players = [
     <template #title>管理名单</template>
     <template #members>
       <VPTeamMembers size="small" :members="coreMembers_ops"></VPTeamMembers>
-    </template>
-</VPTeamPageSection>
-<VPTeamPageSection>
-    <template #title>玩家名单</template>
-    <template #members>
-      <VPTeamMembers size="small" :members="coreMembers_players"></VPTeamMembers>
     </template>
 </VPTeamPageSection>
 </VPTeamPage>
