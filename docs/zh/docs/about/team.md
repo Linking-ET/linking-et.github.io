@@ -82,7 +82,7 @@ const coreMembers_players = [
     name: 'lanxiao1',
     },
     {
-    avatar:'/res/avatar/sample',
+    avatar:'/res/avatar/sample.jpg',
     name: 'sample',
     desc: '这是一个用于展示的样本',
     links: [
