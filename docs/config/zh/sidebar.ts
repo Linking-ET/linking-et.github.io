@@ -1,32 +1,40 @@
 export const sidebar = {
-        '/docs/about': [
+        '/docs/': [
             {
                 text: '了解我们',
                 items: [
                     { text: '我们是谁？', link: '/docs/about/' },
-                    { text: '团队成员', link: '/docs/about/team' },
+                    { text: '腐竹们', link: '/docs/about/team' },
                 ]
-            }
-        ],
-        '/docs/kimi': [
+            },
             {
                 text: 'Kimi的万事屋',
                 items: [
                     { text: '简介', link: '/docs/kimi/' },
-                    { text: '服务器成员', link: '/docs/kimi/team' },
+                    { text: '成员', link: '/docs/kimi/team' },
                 ]
-            }
-        ],
-        '/docs/water/': [
+            },
             {
                 text: '淡水之域',
                 items:[
                     { text: '简介', link: '/docs/water/' },
-                    { text: '服务器成员', link: '/docs/water/team' },
+                    { text: '成员', link: '/docs/water/team' },
                 ]
-            }
-        ],
-        '/docs/guide/':[
+            },
+            {
+                text: '叶服',
+                items:[
+                    { text: '简介', link: '/docs/ye/' },
+                    { text: '成员', link: '/docs/ye/team' },
+                ]
+            },
+            {
+                text: '呦呦的后花园',
+                items:[
+                    { text: '简介', link: '/docs/yoyo/' },
+                    { text: '成员', link: '/docs/yoyo/team' },
+                ]
+            },
             {
                 text:'游玩教程',
                 items:[
