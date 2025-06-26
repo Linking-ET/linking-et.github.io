@@ -14,7 +14,7 @@ const coreMembers_Kimi = [
     {
     avatar:'https://www.sakura.fun/resource/avatar/1749393192-Kimimustbe29.png',
     name: 'Kimimaybe29',
-    desc: '群组服最大金主<br>腐竹',
+    desc: '群组服最大金主',
     links: [
         { icon: 'github', link: 'https://github.com/Kimimaybe29' },
         { icon: 'wordpress', link: 'https://kimimaybe29.top'},
@@ -24,11 +24,19 @@ const coreMembers_Kimi = [
     {
     avatar:'https://avatars.githubusercontent.com/u/80152431?v=4',
     name: 'Lorien Yang',
-    desc: '网站技术<br>皮肤站站长',
+    desc: '网站技术',
     links: [
         { icon: 'github', link: 'https://github.com/star-moon-night' },
         { icon: 'vitepress', link: 'https://www.sakuraonline.cn' },
         { icon: 'bilibili', link: 'https://space.bilibili.com/473089208' },
+    ]
+    },
+    {
+    avatar:'/res/avatar/xc.jpg',
+    name: 'XC小陈',
+    links: [
+        { icon:'bilibili', link: 'https://i.bilibili.com/621908460' },
+        { icon:'github',link: ' https://github.com/XChen446'}
     ]
     },
 ];
@@ -36,7 +44,6 @@ const coreMembers_Water = [
     {
     avatar: '/res/avatar/water.png',
     name: '淡水',
-    desc: '腐竹',
     links:[
         {icon: 'bilibili', link: 'https://space.bilibili.com/1854567057' },
         {icon: 'github', link: 'https://github.com/Freshwater111'}
@@ -45,18 +52,8 @@ const coreMembers_Water = [
 ];
 const coreMembers_Ye = [
     {
-    avatar:'/res/avatar/xc.jpg',
-    name: 'XC小陈',
-    desc: '腐竹',
-    links: [
-        { icon:'bilibili', link: 'https://i.bilibili.com/621908460' },
-        { icon:'github',link: ' https://github.com/XChen446'}
-    ]
-    },
-    {
     avatar: '/res/avatar/NYQF.jpg',
     name: '柠言千枫',
-    desc: '金主',
     links:[
         {icon: 'bilibili',link: 'https://space.bilibili.com/473233505'}
     ]
