@@ -50,4 +50,5 @@ const Kimi_players = [
     <template #members>
       <VPTeamMembers size="small" :members="Kimi_players"></VPTeamMembers>
     </template>
+</VPTeamPageSection>
 </VPTeamPage>
