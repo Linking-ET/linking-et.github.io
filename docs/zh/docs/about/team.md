@@ -81,6 +81,14 @@ const coreMembers_players = [
     avatar:'https://www.sakura.fun/resource/avatar/1749393192-lanxiao1.png',
     name: 'lanxiao1',
     },
+    {
+    avatar:'/res/avatar/sample',
+    name: 'sample',
+    desc: '这是一个用于展示的样本',
+    links: [
+    {icon: 'github', link: 'https://github.com/Linking-ET/linking-et.github.io'}
+    ]
+    },
 ]
 </script>
 
