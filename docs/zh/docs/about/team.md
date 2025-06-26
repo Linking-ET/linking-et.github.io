@@ -12,8 +12,9 @@ import {
 
 const coreMembers_Kimi = [
     {
-    avatar:'https://avatars.githubusercontent.com/u/192323617?v=4',
-    name: 'Kimimustbe29',
+    avatar:'https://www.sakura.fun/resource/avatar/1749393192-Kimimustbe29.png',
+    name: 'Kimimaybe29',
+    desc: '群组服最大金主'
     links: [
         { icon: 'github', link: 'https://github.com/Kimimaybe29' },
         { icon: 'wordpress', link: 'https://kimimaybe29.top'},
