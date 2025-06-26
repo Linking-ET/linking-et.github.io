@@ -31,8 +31,6 @@ const coreMembers_Kimi = [
         { icon: 'bilibili', link: 'https://space.bilibili.com/473089208' },
     ]
     },
-];
-const coreMembers_Water = [
     {
     avatar: '/res/avatar/water.png',
     name: '淡水',
@@ -41,9 +39,7 @@ const coreMembers_Water = [
         {icon: 'bilibili', link: 'https://space.bilibili.com/1854567057' },
         {icon: 'github', link: 'https://github.com/Freshwater111'}
     ]
-    }
-];
-const coreMembers_Ye = [
+    },
     {
     avatar:'/res/avatar/xc.jpg',
     name: 'XC小陈',
@@ -61,30 +57,42 @@ const coreMembers_Ye = [
         {icon: 'bilibili',link: 'https://space.bilibili.com/473233505'}
     ]
     }
+];
+const coreMembers_ops = [
+    {
+    avatar:'https://www.sakura.fun/resource/avatar/1749393194-N0HAb1tor.png',
+    name: 'N0HAb1tor',
+    },
+];
+const coreMembers_players = [
+    {
+    avatar:'https://www.sakura.fun/resource/avatar/1749393192-lanxiao1.png',
+    name: 'lanxiao1',
+    },
 ]
 </script>
 
 <VPTeamPage>
   <VPTeamPageTitle>
-    <template #title>总标题1</template>
-    <template #lead>总标题2</template>
+    <template #title>所有成员列表</template>
+    <template #lead>所有的腐竹和管理都在这里了</template>
   </VPTeamPageTitle>
 <VPTeamPageSection>
-    <template #title>Kimi的万事屋成员列表</template>
+    <template #title>服主列表</template>
     <template #members>
-      <VPTeamMembers size="medium" :members="coreMembers_Kimi"></VPTeamMembers>
+      <VPTeamMembers size="medium" :members="coreMembers_owners"></VPTeamMembers>
     </template>
 </VPTeamPageSection>
 <VPTeamPageSection>
-    <template #title>淡水之域成员列表</template>
+    <template #title>管理列表</template>
     <template #members>
-      <VPTeamMembers size="medium" :members="coreMembers_Water"></VPTeamMembers>
+      <VPTeamMembers size="small" :members="coreMembers_ops"></VPTeamMembers>
     </template>
 </VPTeamPageSection>
 <VPTeamPageSection>
-    <template #title>叶服成员列表</template>
+    <template #title>玩家列表</template>
     <template #members>
-      <VPTeamMembers size="medium" :members="coreMembers_Ye"></VPTeamMembers>
+      <VPTeamMembers size="small" :members="coreMembers_players"></VPTeamMembers>
     </template>
 </VPTeamPageSection>
 </VPTeamPage>
