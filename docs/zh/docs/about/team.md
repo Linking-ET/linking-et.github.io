@@ -10,7 +10,7 @@ import {
   VPTeamPageSection
 } from 'vitepress/theme';
 
-const coreMembers_Kimi = [
+const coreMembers_owners = [
     {
     avatar:'https://www.sakura.fun/resource/avatar/1749393192-Kimimustbe29.png',
     name: 'Kimimaybe29',
