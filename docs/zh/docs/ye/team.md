@@ -40,7 +40,7 @@ const players = [
 
 <VPTeamPage>
   <VPTeamPageTitle>
-    <template #title>Kimi的万事屋成员</template>
+    <template #title>叶服成员</template>
     <template #lead>可以自由修改描述</template>
   </VPTeamPageTitle>
 <VPTeamPageSection>
