@@ -24,6 +24,10 @@ const Kimi_ops = [
     {
     avatar:'https://www.sakura.fun/resource/avatar/1749393194-N0HAb1tor.png',
     name: 'N0HAb1tor',
+    desc: '来个闪电苦力怕拳' ,
+    links: [
+        { icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
+    ]
     }
 ];
 const Kimi_players = [
