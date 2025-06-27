@@ -8,9 +8,6 @@ import {nav as ENNav} from '../config/en/nav'
 import {sidebar as ENSidebar} from '../config/en/sidebar'
 import {CustomTexts as ENCustomTexts} from '../config/en/CustomTexts'
 
-
-
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "LinKing-ET",
