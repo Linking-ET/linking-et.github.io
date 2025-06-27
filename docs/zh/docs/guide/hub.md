@@ -15,9 +15,9 @@ outline: [2,3]
 
 > 从左到右：<br>
 > 前往小游戏服<br>
-> 前往[淡水之域](/docs/water)<br>
-> 前往[Kimi的万事屋](/docs/kimi)<br>
-> 前往[叶服](/docs/ye)<br>
+> 前往[淡水之域](/docs/water)服务器<br>
+> 前往[Kimi的万事屋](/docs/kimi)服务器<br>
+> 前往[叶服](/docs/ye)服务器<br>
 > 前往[呦呦的后花园](/docs/yoyo)
 
 ### 别点错了！
