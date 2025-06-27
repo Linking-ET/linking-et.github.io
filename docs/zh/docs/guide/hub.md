@@ -15,10 +15,10 @@ outline: [2,3]
 
 > 从左到右：<br>
 > 前往小游戏服<br>
-前往[淡水之域](/docs/water)
-前往[Kimi的万事屋](/docs/kimi)
-前往[叶服](/docs/ye)
-前往[呦呦的后花园](/docs/yoyo)
+> 前往[淡水之域](/docs/water)
+> 前往[Kimi的万事屋](/docs/kimi)
+> 前往[叶服](/docs/ye)
+> 前往[呦呦的后花园](/docs/yoyo)
 
 ### 别点错了！
 
