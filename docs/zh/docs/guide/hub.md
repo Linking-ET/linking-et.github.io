@@ -42,7 +42,7 @@ outline: [2,3]
 
 #### 前往叶服
 
-![前往叶服](/res/img/guide/mpcye.png)
+![前往叶服](/res/img/guide/npcye.png)
 
 #### 后花园
 
