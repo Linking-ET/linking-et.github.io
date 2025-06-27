@@ -2,6 +2,7 @@
 layout: doc
 outline: [2,3]
 ---
+
 # 进入大厅
 
 - 当你完成注册，进入大厅，你便进入了正式游玩阶段。但是一些人看见大厅里的东西还是蒙的：啊？我为什么没有直接进生存服？就让我们一一介绍你眼前的东西吧。
@@ -10,7 +11,7 @@ outline: [2,3]
 
 - 当你完成登录，转头看向身后，你会看见五个NPC
 
-![NPC](/res/img/guide/npc.gif)
+![NPC](https://link-et.link/res/img/guide/npc.gif)
 
 > 从左到右：<br>
 > 前往小游戏服<br>
@@ -23,13 +24,13 @@ outline: [2,3]
 
 - 使用*右键* **而非左键** 点击对应NPC进行跨服传送
 
-![切换服务器](/res/img/guide/switchservernpc.gif)
+![切换服务器](https://link-et.link/res/img/guide/switchservernpc.gif)
 
 ## 物品栏
 
 - 每次进入大厅，背包都会被强制重置。这是物品栏的内容：
 
-![物品栏内容](/res/img/guide/invtab.png)
+![物品栏内容](https://link-rt.link/res/img/guide/invtab.png)
 
 - 每项都有内容
 
