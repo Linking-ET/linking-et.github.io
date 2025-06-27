@@ -4,7 +4,7 @@ import DefaultTheme from 'vitepress/theme'
 import { nextTick, provide } from 'vue'
 import HomePage from "./HomePage.vue";
 
-const { isDark } = useData()
+const { isDark,frontmatter } = useData()
 
 const enableTransitions = () =>
     'startViewTransition' in document &&
@@ -45,6 +45,9 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
   <DefaultTheme.Layout>
     <template #home-features-after>
       <HomePage />
+    </template>
+    <template #doc-footer-before>
+      <CopyRight v-if="frontmatter.copyright" />
     </template>
   </DefaultTheme.Layout>
 </template>

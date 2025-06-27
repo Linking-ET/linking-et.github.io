@@ -1,6 +1,7 @@
 ---
 layout: doc
 outline: [2,3]
+copyright: true
 ---
 # 进服教学
 
