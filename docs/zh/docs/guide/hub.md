@@ -30,23 +30,23 @@ outline: [2,3]
 
 #### 小游戏区服
 
-![小游戏区服](res/img/guide/npc_xc.png)
+![小游戏区服](res/img/guide/npcxc.png)
 
 #### 前往水服
 
-![前往水服](res/img/guide/npc_water.png)
+![前往水服](res/img/guide/npcwater.png)
 
 #### 前往主服
 
-![前往主服](res/img/guide/npc_kimi.png)
+![前往主服](res/img/guide/npckimi.png)
 
 #### 前往叶服
 
-![前往叶服](res/img/guide/mpc_ye.png)
+![前往叶服](res/img/guide/mpcye.png)
 
 #### 后花园
 
-![后花园](res/img/guide/npc_yoyo.png)
+![后花园](res/img/guide/npcyoyo.png)
 
 ## 物品栏
 
@@ -82,8 +82,8 @@ outline: [2,3]
 
 ## 彩蛋与小游戏
 
-![跑酷NPC](res/img/guide/npc_parkour.png)
+![跑酷NPC](res/img/guide/npcparkour.png)
 
-![跑酷开始](res/img/guide/parkour_start.png)
+![跑酷开始](res/img/guide/parkourstart.png)
 
-![跑酷结尾](res/img/guide/parkour_end.png)
+![跑酷结尾](res/img/guide/parkourend.png)
