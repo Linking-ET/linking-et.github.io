@@ -87,8 +87,8 @@ const coreMembers_ops = [
 
 <VPTeamPage>
   <VPTeamPageTitle>
-    <template #title>所有成员名单</template>
-    <template #lead>如果遗漏了你，请发起pr！</template>
+    <template #title>核心成员名单</template>
+    <template #lead>玩家请到服务器成员登记</template>
   </VPTeamPageTitle>
 <VPTeamPageSection>
     <template #title>服主名单</template>
