@@ -30,23 +30,23 @@ outline: [2,3]
 
 #### 小游戏区服
 
-![小游戏区服](res/img/guide/npcxc.png)
+![小游戏区服](/res/img/guide/npcxc.png)
 
 #### 前往水服
 
-![前往水服](res/img/guide/npcwater.png)
+![前往水服](/res/img/guide/npcwater.png)
 
 #### 前往主服
 
-![前往主服](res/img/guide/npckimi.png)
+![前往主服](/res/img/guide/npckimi.png)
 
 #### 前往叶服
 
-![前往叶服](res/img/guide/mpcye.png)
+![前往叶服](/res/img/guide/mpcye.png)
 
 #### 后花园
 
-![后花园](res/img/guide/npcyoyo.png)
+![后花园](/res/img/guide/npcyoyo.png)
 
 ## 物品栏
 
@@ -58,32 +58,32 @@ outline: [2,3]
 
 ### 服务器选择器
 
-![服务器选择器](res/img/guide/serverchooser.png)
+![服务器选择器](/res/img/guide/serverchooser.png)
 
-![服务器选择页面](res/img/guide/serverchoose.png)
+![服务器选择页面](/res/img/guide/serverchoose.png)
 
 ### 传送弓
 
-![传送弓](res/img/guide/tpbowl.png)
+![传送弓](/res/img/guide/tpbowl.png)
 
 ### 玩家显示开关
 
-![玩家显示](res/img/guide/playerswitch.png)
+![玩家显示](/res/img/guide/playerswitch.png)
 
 ### pvp开关
 
-![pvp开关](res/img/guide/pvpswitch.png)
+![pvp开关](/res/img/guide/pvpswitch.png)
 
 ### 公告书
 
-![公告书](res/img/guide/serverbook.png)
+![公告书](/res/img/guide/serverbook.png)
 
-![服务器详情](res/img/guide/serverdetial.png)
+![服务器详情](/res/img/guide/serverdetial.png)
 
 ## 彩蛋与小游戏
 
-![跑酷NPC](res/img/guide/npcparkour.png)
+![跑酷NPC](/res/img/guide/npcparkour.png)
 
-![跑酷开始](res/img/guide/parkourstart.png)
+![跑酷开始](/res/img/guide/parkourstart.png)
 
-![跑酷结尾](res/img/guide/parkourend.png)
+![跑酷结尾](/res/img/guide/parkourend.png)
