@@ -12,7 +12,7 @@ export const sidebar = {
                 items:[
                     {text:'入服教学', link: '/docs/guide/'},
                     {text:'客户端下载', link: '/docs/guide/modpack'},
-                    {text:'进入大厅', link:'/docs/guide/hub'},
+                    {text:'进入大厅', link: '/docs/guide/hub'},
                 ]
             },
             {
