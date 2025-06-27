@@ -27,8 +27,8 @@ export const CustomTexts = {
     returnToTopLabel: '回到顶部',
     sidebarMenuLabel: '菜单',
     darkModeSwitchLabel: '主题',
-    lightModeSwitchTitle: '切换到浅色模式',
-    darkModeSwitchTitle: '切换到深色模式',
+    lightModeSwitchTitle: '投掷闪光弹！',
+    darkModeSwitchTitle: 'Deep♂ Dark♂ Fantasy♂',
     skipToContentLabel: '跳转到内容',
     footer:{
         message:'本网站以<a href="https://github.com/Linking-ET/linking-et.github.io/blob/main/LICENSE" target="_blank">GNU General Public License v3.0</a>条款发布.',
