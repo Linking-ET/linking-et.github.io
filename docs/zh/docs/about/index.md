@@ -1,7 +1,7 @@
 # 我们是谁？
 
 ## 前言
-    如果您游玩我们的服务器，即表示您同意[《Minecraft EULA》](https://www.minecraft.net/zh-hans/eula)、[《Microsoft 服务协议》](https://www.microsoft.com/servicesagreement)，因此请仔细阅读。如果您是未成年人，并且难以理解这些条款和条件，请让您的父母或法定监护人向您解释，尤其是因为您的父母或法定监护人负责为您创建 Microsoft 帐户并代表您接受所有条款。请记住不定时检查此处和[《Minecraft EULA》](https://www.minecraft.net/zh-hans/eula)、[《Microsoft 服务协议》]{https://www.microsoft.com/servicesagreement}， 因为我们及微软可能会更新这些条款和条件，这些条款和条件将在您下次使用我们的服务器时生效。
+如果您游玩我们的服务器，即表示您同意[《Minecraft EULA》](https://www.minecraft.net/zh-hans/eula)、[《Microsoft 服务协议》](https://www.microsoft.com/servicesagreement)，因此请仔细阅读。如果您是未成年人，并且难以理解这些条款和条件，请让您的父母或法定监护人向您解释，尤其是因为您的父母或法定监护人负责为您创建 Microsoft 帐户并代表您接受所有条款。请记住不定时检查此处和[《Minecraft EULA》](https://www.minecraft.net/zh-hans/eula)、[《Microsoft 服务协议》](https://www.microsoft.com/servicesagreement)， 因为我们及微软可能会更新这些条款和条件，这些条款和条件将在您下次使用我们的服务器时生效。
 
 ## Linking-ET的起源
 Linking-ET组建于2025年3月22日，初始创始人只有Kimimaybe29、xc小陈和柠言千枫。淡水在随后几天内加入。
