@@ -1,6 +1,6 @@
 ---
 layout: doc
-outline: [2,3]
+outline: [2,4]
 ---
 
 # 进入大厅
@@ -30,21 +30,37 @@ outline: [2,3]
 
 #### 小游戏区服
 
+> 皮肤提供者: XC小陈<br>
+> 正版名: _XIAOCHEN_
+
 ![小游戏区服](/res/img/guide/npcxc.png)
 
 #### 前往水服
+
+> 皮肤提供者: 淡水<br>
+> 正版名: freshwater111
 
 ![前往水服](/res/img/guide/npcwater.png)
 
 #### 前往主服
 
+> 皮肤提供者: Kimimaybe29<br>
+> 正版名: Kimimightbe29<br>
+> 左手头颅（右侧）: Kimimaybe29<br>
+> 右手头颅（左侧）: Kimimustbe29<br>
+> （没错这人有三个正版）
+
 ![前往主服](/res/img/guide/npckimi.png)
 
 #### 前往叶服
 
+> 皮肤提供者: 柠言千枫
+
 ![前往叶服](/res/img/guide/npcye.png)
 
 #### 后花园
+
+> 皮肤提供者: 呦呦
 
 ![后花园](/res/img/guide/npcyoyo.png)
 
