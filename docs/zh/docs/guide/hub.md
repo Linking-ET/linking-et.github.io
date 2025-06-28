@@ -1,6 +1,6 @@
 ---
 layout: doc
-outline: [2,4]
+outline: [2,3]
 ---
 
 # 进入大厅
@@ -28,43 +28,14 @@ outline: [2,4]
 
 ### NPC详情
 
-#### 小游戏区服
+| NPC        |      皮肤来源      | 截图 |
+| ------------- | :-----------: | ----: |
+| 小游戏区服      | 皮肤提供者: XC小陈<br>正版名: \_XIAOCHEN\_ | ![小游戏区服](/res/img/guide/npcxc.png) |
+|   前往水服  |  皮肤提供者: 淡水<br>正版名: freshwater111     |  ![前往水服](/res/img/guide/npcwater.png)  |
+| 前往主服 |    皮肤提供者: Kimimaybe29<br>正版名: Kimimightbe29<br>左手头颅（右侧）: Kimimaybe29<br>右手头颅（左侧）: Kimimustbe29<br>（没错这人有三个正版）  |  ![前往主服](/res/img/guide/npckimi.png)   |
+|前往叶服 | 皮肤提供者: 柠言千枫<br>正版: 暂无 | ![前往叶服](/res/img/guide/npcye.png)|
+| 后花园 | 皮肤提供者: 呦呦<br>正版: 暂无 | ![后花园](/res/img/guide/npcyoyo.png) |
 
-> 皮肤提供者: XC小陈<br>
-> 正版名: \_XIAOCHEN\_
-
-![小游戏区服](/res/img/guide/npcxc.png)
-
-#### 前往水服
-
-> 皮肤提供者: 淡水<br>
-> 正版名: freshwater111
-
-![前往水服](/res/img/guide/npcwater.png)
-
-#### 前往主服
-
-> 皮肤提供者: Kimimaybe29<br>
-> 正版名: Kimimightbe29<br>
-> 左手头颅（右侧）: Kimimaybe29<br>
-> 右手头颅（左侧）: Kimimustbe29<br>
-> （没错这人有三个正版）
-
-![前往主服](/res/img/guide/npckimi.png)
-
-#### 前往叶服
-
-> 皮肤提供者: 柠言千枫<br>
-> 正版: 暂无
-
-![前往叶服](/res/img/guide/npcye.png)
-
-#### 后花园
-
-> 皮肤提供者: 呦呦<br>
-> 正版: 暂无
-
-![后花园](/res/img/guide/npcyoyo.png)
 
 ## 物品栏
 
@@ -104,8 +75,12 @@ outline: [2,4]
 ![传送弓](/res/img/guide/tpbowl.png)
 
 - 作用正如其名，会将使用者传送到箭矢的落点
+
 - 有距离限制，最多传送100格
+
 - 使用一次冷却5秒
+
+![传送弓使用](/res/img/guide/tpbowluse.gif)
 
 ### 玩家显示开关
 
@@ -114,13 +89,29 @@ outline: [2,4]
 ![玩家显示](/res/img/guide/playerswitch.png)
 
 - 点一次切换为灰色染料，同时周边玩家全部“隐身”(NPC不算在内，因为他们不是玩家)
+
 - 再点一次切换回来，切换冷却5秒
+
+![玩家显示切换](/res/img/guide/playerswitchuse.gif)
 
 ### pvp开关
 
+- 一把钻石剑
+
 ![pvp开关](/res/img/guide/pvpswitch.png)
 
+- 手执五秒会切换进pvp模式
+
+- 背包中包含: 一把火焰附加钻石剑，全套钻石白甲，16个金苹果，一把无限弓，一根箭，以及一个关闭pvp模式的开关（也是钻石剑）
+
+![pvp开关使用](/res/img/guide/pvpswitchuse.gif)
+
+> 是的，大厅还有娱乐功能
+
 ### 公告书
+
+- 一本书
+- 手持右键使用会在聊天栏里显示公告
 
 ![公告书](/res/img/guide/serverbook.png)
 
@@ -128,8 +119,26 @@ outline: [2,4]
 
 ## 彩蛋与小游戏
 
+- 进服后往前上方看，会看见一位npc
+
 ![跑酷NPC](/res/img/guide/npcparkour.png)
+
+> 皮肤提供者：ec <br>
+> 正版名：Exploded_Creeper
+
+- 右键npc，会被传送到大厅上方的一个小跑酷
+
+- 跑酷相当有难度
+
+> 谁能通过这段跑酷并提供录屏证明自己没作弊<br>
+> 能获得奖励哦
 
 ![跑酷开始](/res/img/guide/parkourstart.png)
 
 ![跑酷结尾](/res/img/guide/parkourend.png)
+
+### ???
+- ???
+- 是一个非常????的????
+- 右键????后会????
+- 欢迎各位自己去发现
