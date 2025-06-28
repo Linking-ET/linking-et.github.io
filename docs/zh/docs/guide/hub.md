@@ -31,7 +31,7 @@ outline: [2,4]
 #### 小游戏区服
 
 > 皮肤提供者: XC小陈<br>
-> 正版名: _XIAOCHEN_
+> 正版名: \_XIAOCHEN\_
 
 ![小游戏区服](/res/img/guide/npcxc.png)
 
