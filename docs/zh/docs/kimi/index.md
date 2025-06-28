@@ -5,3 +5,18 @@
 
 > [!CAUTION]警告
 > 基岩版无法进入
+
+## 基础内容
+- 由[Terralith](https://www.mcmod.cn/class/4557.html)+[Tectonic](https://www.mcmod.cn/class/8005.html)打造独有绝美地形，主世界非常适合探险和赏景
+
+- 由[Nullescape](https://www.mcmod.cn/class/5555.html)+[Incendium](https://www.mcmod.cn/class/4064.html)数据包打造地狱和末地的新面貌，非常适合探险和赏景
+
+- 由[The Bracken Pack](https://www.mcmod.cn/class/7607.html)+[Deeper Dark](https://modrinth.com/datapack/deeper_dark)添加12个可以自由探险、建造的新维度
+
+- 装载[农夫乐事：重织](https://www.mcmod.cn/class/14196.html)及其附属模组，拓展食物相关玩法
+
+- 支持[多段跳Air Hop](https://www.mcmod.cn/class/1908.html)，方便赶路与炫技！
+
+- 支持[Xaero的地图两件套](https://www.mcmod.cn/class/1701.html)，可以显示远处玩家的精准位置！
+
+- 支持[poopsky](https://www.mcmod.cn/class/19614.html)模组，搞怪发展科技都适合(doge)
