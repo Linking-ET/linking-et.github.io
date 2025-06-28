@@ -1,58 +1,62 @@
-name: Deploy VitePress site to Remote Server
+  name: 部署 VitePress 站点到远程服务器
 
-on:
-  push:
-    branches: [main]
-  workflow_dispatch:
+  on:
+    push:
+      branches: [main]
+    workflow_dispatch:
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
+  concurrency:
+    group: ${{ github.workflow }}-${{ github.ref }}
+    cancel-in-progress: true
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+  jobs:
+    deploy:
+      runs-on: ubuntu-latest
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
+      steps:
+        - name: 检出仓库
+          uses: actions/checkout@v4
+          with:
+            fetch-depth: 0
 
-      - name: Install dependencies
-        run: npm ci
+        - name: 设置 Node.js 环境
+          uses: actions/setup-node@v4
+          with:
+            node-version: 22
+            cache: npm
 
-      - name: Build VitePress site
-        run: npm run docs:build
+        - name: 安装依赖
+          run: npm ci
 
-      - name: Save SSH private key
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
+        - name: 构建 VitePress 站点
+          run: npm run docs:build
 
-      - name: Add remote server to known_hosts
-        run: |
-          mkdir -p ~/.ssh
-          ssh-keyscan -p 22 ${{ secrets.SERVER_IP }} >> ~/.ssh/known_hosts
+        - name: 保存 SSH 私钥
+          run: |
+            mkdir -p ~/.ssh
+            echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+            chmod 600 ~/.ssh/id_rsa
 
-      - name: Check remote server disk space
-        run: |
-          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@${{ secrets.SERVER_IP }} "df -h /www/wwwroot/blog"
+        - name: 添加远程服务器到 known_hosts
+          run: |
+            mkdir -p ~/.ssh
+            ssh-keyscan -p 22 ${{ secrets.SERVER_IP }} >> ~/.ssh/known_hosts
 
-      - name: Clean remote directory
-        run: |
-          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@${{ secrets.SERVER_IP }} "rm -rf /www/wwwroot/blog/* && mkdir -p /www/wwwroot/blog"
+        - name: 检查远程服务器磁盘空间
+          run: |
+            ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@${{ secrets.SERVER_IP }} "df -h /www/wwwroot/blog"
 
-      - name: Upload built site with rsync (verbose)
-        run: |
-          rsync -avvvz --delete -e "ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22" ./docs/.vitepress/dist/ root@${{ secrets.SERVER_IP }}:/www/wwwroot/blog/
+        - name: 清理远程目录
+          run: |
+            ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@${{ secrets.SERVER_IP }} "rm -rf /www/wwwroot/blog/* && mkdir -p /www/wwwroot/blog"
 
-      - name: Fix ownership and permissions on remote server
-        run: |
-          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@${{ secrets.SERVER_IP }} "
-            chown -R www:www /www/wwwroot/blog
-            chmod -R 755 /www/wwwroot/blog
-          "
+        - name: 使用 rsync 上传构建站点 (详细模式)
+          run: |
+            rsync -avvvz --delete -e "ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22" ./docs/.vitepress/dist/ root@${{ secrets.SERVER_IP }}:/www/wwwroot/blog/
+
+        - name: 修复远程服务器上的所有权和权限
+          run: |
+            ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -p 22 root@${{ secrets.SERVER_IP }} "
+              chown -R www:www /www/wwwroot/blog
+              chmod -R 755 /www/wwwroot/blog
+            "
