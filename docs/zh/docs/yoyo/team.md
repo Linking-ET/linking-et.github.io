@@ -14,6 +14,7 @@ const ops = [
     {
     avatar: '/res/avatar/yoyo.jpg',
     name: 'gezhe',
+    title: '服主',
     desc: '你是谁？<br>为什么看得见我？<br>警告你啊！  别惹我！  如果你惹了我！<br>那……那...什么也不会发生！<br>恭喜你，你惹到了世界上最好惹的人',
     links:[
         {icon: 'twitter',link: 'https://x.com/andy7770359559'}
@@ -22,7 +23,7 @@ const ops = [
 ];
 const players = [
     {
-    avatar:'/re/avatar/M.T.jpg',
+    avatar:'/res/avatar/M.T.jpg',
     name: '@M.T',
     desc: '服务器提供者<br>不参与实际服务器管理',
     }

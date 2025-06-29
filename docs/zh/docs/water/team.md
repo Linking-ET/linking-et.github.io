@@ -14,6 +14,7 @@ const ops = [
     {
     avatar: '/res/avatar/water.png',
     name: '淡水',
+    title: '服主',
     desc: '淡水之域腐竹<br>可能是杂鱼？',
     links:[
         {icon: 'bilibili', link: 'https://space.bilibili.com/1854567057' },

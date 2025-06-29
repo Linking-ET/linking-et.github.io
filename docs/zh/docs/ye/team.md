@@ -14,6 +14,7 @@ const ops = [
     {
     avatar:'/res/avatar/xc.jpg',
     name: 'XC小陈',
+    title: '服主',
     desc: '>叶服腐竹<br>解决问题最有思路的人',
     links: [
         { icon:'bilibili', link: 'https://i.bilibili.com/621908460' },
@@ -23,6 +24,7 @@ const ops = [
     {
     avatar: '/res/avatar/NYQF.jpg',
     name: '柠言千枫',
+    title: '金主',
     desc: '叶服金主<br>万年不出现',
     links:[
         {icon: 'bilibili',link: 'https://space.bilibili.com/473233505'}
