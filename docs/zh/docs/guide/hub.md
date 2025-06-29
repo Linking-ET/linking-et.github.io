@@ -13,7 +13,7 @@ outline: [2,3]
 
 ![NPC](/res/img/guide/npc.gif)
 
-> 从左到右：<br>
+> [!tip]从左到右：<br>
 > 前往小游戏服<br>
 > 前往[淡水之域](/docs/water/)<br>
 > 前往[Kimi的万事屋](/docs/kimi/)<br>
@@ -22,12 +22,14 @@ outline: [2,3]
 
 ### 别点错了！
 
-- 使用*右键* **而非左键** 点击对应NPC进行跨服传送
+> [!warning]注意
+> 使用*右键* **而非左键** 点击对应NPC进行跨服传送
 
 ![切换服务器](/res/img/guide/switchservernpc.gif)
 
 ### NPC详情
 
+::: details 点击展开
 | NPC        |      皮肤来源      | 截图 |
 | ------------- | :-----------: | ----: |
 | 小游戏区服      | 皮肤提供者: XC小陈<br>正版名: \_XIAOCHEN\_ | ![小游戏区服](/res/img/guide/npcxc.png) |
@@ -35,6 +37,7 @@ outline: [2,3]
 | 前往主服 |    皮肤提供者: Kimimaybe29<br>正版名: Kimimightbe29<br>左手头颅（右侧）: Kimimaybe29<br>右手头颅（左侧）: Kimimustbe29<br>（没错这人有三个正版）  |  ![前往主服](/res/img/guide/npckimi.png)   |
 |前往叶服 | 皮肤提供者: 柠言千枫<br>正版: 暂无 | ![前往叶服](/res/img/guide/npcye.png)|
 | 后花园 | 皮肤提供者: 呦呦<br>正版: 暂无 | ![后花园](/res/img/guide/npcyoyo.png) |
+:::
 
 
 ## 物品栏
@@ -52,14 +55,13 @@ outline: [2,3]
 
 ![服务器选择器](/res/img/guide/serverchooser.png)
 
-- 点按右键能打开服务器选择页面
+> [!note]使用方法
+> 手持选择器，点按右键能打开服务器选择页面
 
 ![服务器选择页面](/res/img/guide/serverchoose.png)
 
 
-> 中间一行，从左到右：<br>
-
-
+::: info 中间一行，从左到右：<br>
 | 对应物品      |      前往服务器     |
 | ------------- | :-----------: | 
 | 时钟      | 前往小游戏服                      |
@@ -67,6 +69,7 @@ outline: [2,3]
 | 附魔台    |  前往[Kimi的万事屋](/docs/kimi/)     |
 | 红石粉    | 前往[叶服](/docs/ye/)             |
 | 热带鱼    | 前往[呦呦的后花园](/docs/yoyo/)   |
+:::
 
 ### 传送弓
 
@@ -74,11 +77,10 @@ outline: [2,3]
 
 ![传送弓](/res/img/guide/tpbowl.png)
 
-- 作用正如其名，会将使用者传送到箭矢的落点
-
-- 有距离限制，最多传送100格
-
-- 使用一次冷却5秒
+> [!note]使用方法
+> 作用正如其名，会将使用者传送到箭矢的落点<br>
+> 有距离限制，最多传送100格<br>
+> 使用一次冷却5秒<br>
 
 ![传送弓使用](/res/img/guide/tpbowluse.gif)
 
@@ -88,9 +90,9 @@ outline: [2,3]
 
 ![玩家显示](/res/img/guide/playerswitch.png)
 
-- 点一次切换为灰色染料，同时周边玩家全部“隐身”(NPC不算在内，因为他们不是玩家)
-
-- 再点一次切换回来，切换冷却5秒
+> [!note]使用方法
+> 点一次切换为灰色染料，同时周边玩家全部“隐身”(NPC不算在内，因为他们不是玩家)<br>
+> 再点一次切换回来，切换冷却5秒
 
 ![玩家显示切换](/res/img/guide/playerswitchuse.gif)
 
@@ -100,9 +102,9 @@ outline: [2,3]
 
 ![pvp开关](/res/img/guide/pvpswitch.png)
 
-- 手执五秒会切换进pvp模式
-
-- 背包中包含: 一把火焰附加钻石剑，全套钻石白甲，16个金苹果，一把无限弓，一根箭，以及一个关闭pvp模式的开关（也是钻石剑）
+> [!NOTE]使用方法
+> 手执五秒会切换进pvp模式<br>
+> 背包中包含: 一把火焰附加钻石剑，全套钻石白甲，16个金苹果，一把无限弓，一根箭，以及一个关闭pvp模式的开关（也是钻石剑）
 
 ![pvp开关使用](/res/img/guide/pvpswitchuse.gif)
 
@@ -110,8 +112,8 @@ outline: [2,3]
 
 ### 公告书
 
-- 一本书
-- 手持右键使用会在聊天栏里显示公告
+> [!info]一本书
+> 手持右键使用会在聊天栏里显示公告
 
 ![公告书](/res/img/guide/serverbook.png)
 
@@ -123,6 +125,7 @@ outline: [2,3]
 
 ![跑酷NPC](/res/img/guide/npcparkour.png)
 
+> [!info]NPC皮肤信息
 > 皮肤提供者：ec <br>
 > 正版名：Exploded_Creeper
 
@@ -130,6 +133,7 @@ outline: [2,3]
 
 - 跑酷相当有难度
 
+> [!TIP]奖励关
 > 谁能通过这段跑酷并提供录屏证明自己没作弊<br>
 > 能获得奖励哦
 
