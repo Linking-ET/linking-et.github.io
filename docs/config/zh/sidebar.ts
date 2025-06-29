@@ -4,7 +4,7 @@ export const sidebar = {
                 text: '了解我们',
                 items: [
                     { text: '我们是谁？', link: '/docs/about/' },
-                    { text: '全体成员列表', link: '/docs/about/team' },
+                    { text: '核心成员名单', link: '/docs/about/team' },
                 ]
             },
             {
