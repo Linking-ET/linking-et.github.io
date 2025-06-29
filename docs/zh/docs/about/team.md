@@ -12,13 +12,14 @@ import {
 
 const coreMembers_owners = [
     {
-    avatar:'https://www.sakura.fun/resource/avatar/1749393192-Kimimustbe29.png',
+    avatar:'/res/avatar/1749393192-Kimimustbe29.png',
     name: 'Kimimaybe29',
     title: 'Kimi的万事屋服主',
     desc: '群组服最大金主<br>神级屎山代码之手',
     links: [
-        { icon: 'github', link: 'https://github.com/Kimimaybe29' },
         { icon: 'wordpress', link: 'https://kimimaybe29.top'},
+        { icon: 'github', link: 'https://github.com/Kimimaybe29' },
+        { icon: 'twitter', link: 'https://x.com/Kimimaybe29'},
         { icon: 'bilibili', link: 'https://space.bilibili.com/504333259' },
     ]
     },
@@ -74,7 +75,7 @@ const coreMembers_owners = [
 ];
 const coreMembers_ops = [
     {
-    avatar:'https://www.sakura.fun/resource/avatar/1749393194-N0HAb1tor.png',
+    avatar:'/res/avatar/1749393194-N0HAb1tor.png',
     name: 'N0HAb1tor',
     title: 'Kimi的万事屋管理员',
     desc: '来个闪电苦力怕拳',

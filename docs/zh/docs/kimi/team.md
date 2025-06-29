@@ -12,18 +12,21 @@ import {
 
 const ops = [
     {
-    avatar:'https://www.sakura.fun/resource/avatar/1749393192-Kimimustbe29.png',
+    avatar:'/res/avatar/1749393192-Kimimustbe29.png',
     name: 'Kimimaybe29',
-    desc: '常年不上线的杂鱼腐竹<br>欢迎来我的个人网站看看<br>↓',
+    title: '服主',
+    desc: '常年不上线的杂鱼腐竹<br>欢迎来我的个人网站看看<br>第一个别点错了',
     links: [
-        { icon: 'github', link: 'https://github.com/Kimimaybe29' },
         { icon: 'wordpress', link: 'https://kimimaybe29.top'},
+        { icon: 'github', link: 'https://github.com/Kimimaybe29' },
+        { icon: 'twitter', link: 'https://x.com/Kimimaybe29'},
         { icon: 'bilibili', link: 'https://space.bilibili.com/504333259' },
         ]
     },
     {
-    avatar:'https://www.sakura.fun/resource/avatar/1749393194-N0HAb1tor.png',
+    avatar:'/res/avatar/1749393194-N0HAb1tor.png',
     name: 'N0HAb1tor',
+    title: '管理员',
     desc: '来个闪电苦力怕拳' ,
     links: [
         { icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
@@ -32,7 +35,7 @@ const ops = [
 ];
 const players = [
     {
-    avatar:'https://www.sakura.fun/resource/avatar/1749393192-lanxiao1.png',
+    avatar:'/res/avatar/1749393192-lanxiao1.png',
     name: 'lanxiao1',
     }
 ]
