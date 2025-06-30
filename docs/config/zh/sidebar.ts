@@ -5,6 +5,7 @@ export const sidebar = {
                 items: [
                     { text: '我们是谁？', link: '/docs/about/' },
                     { text: '核心成员名单', link: '/docs/about/team' },
+                    { text: '安全发言准则', link: '/docs/about/rule' },
                 ]
             },
             {
