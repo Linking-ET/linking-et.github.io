@@ -15,7 +15,7 @@ const coreMembers_owners = [
     avatar:'/res/avatar/1749393192-Kimimustbe29.png',
     name: 'Kimimaybe29',
     title: 'Kimi的万事屋服主',
-    desc: '群组服最大金主<br>神级屎山代码之手',
+    desc: '群组服最大金主<br>神级屎山代码之手<br>天天被撅',
     links: [
         { icon: 'wordpress', link: 'https://kimimaybe29.top'},
         { icon: 'github', link: 'https://github.com/Kimimaybe29' },
@@ -27,7 +27,7 @@ const coreMembers_owners = [
     avatar:'https://avatars.githubusercontent.com/u/80152431',
     name: 'Lorien Yang',
     title: '网站技术',
-    desc: '皮肤站站长<br>论坛站长<br>代码最好的人',
+    desc: '皮肤站站长<br>论坛站长<br>前端最为出色',
     links: [
         { icon: 'github', link: 'https://github.com/lorienyang' },
         { icon: 'vitepress', link: 'https://www.sakuraonline.cn' },
@@ -37,8 +37,8 @@ const coreMembers_owners = [
     {
     avatar:'/res/avatar/xc.jpg',
     name: 'XC小陈',
-    title: '技术维护',
-    desc: '叶服腐竹<br>解决问题最有思路的人',
+    title: '技术主管',
+    desc: '群组主技术<br>开服经验较长<br>协调与解决问题较为出色',
     links: [
         { icon:'bilibili', link: 'https://i.bilibili.com/621908460' },
         { icon:'github',link: ' https://github.com/XChen446'}
@@ -48,7 +48,7 @@ const coreMembers_owners = [
     avatar: '/res/avatar/water.png',
     name: '淡水',
     title: '淡水之域服主',
-    desc: '可能是杂鱼？',
+    desc: '可能是杂鱼？<br>（ps:EchoFisher）',
     links:[
         {icon: 'bilibili', link: 'https://space.bilibili.com/1854567057' },
         {icon: 'github', link: 'https://github.com/Freshwater111'}
@@ -58,7 +58,7 @@ const coreMembers_owners = [
     avatar: '/res/avatar/NYQF.jpg',
     name: '柠言千枫',
     title: '叶服金主',
-    desc: '万年不出现',
+    desc: '君主离线制<br>（ps:XC-小陈）',
     links:[
         {icon: 'bilibili',link: 'https://space.bilibili.com/473233505'}
     ]
@@ -81,6 +81,15 @@ const coreMembers_ops = [
     desc: '来个闪电苦力怕拳',
     links: [
     { icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
+    ]
+    },
+    {
+    avatar:'/res/avatar/temp.png',
+    name: 'EchoFisher',
+    title: '淡水之域管理员',
+    desc: '小猫梁来点腿子（×）',
+    links: [
+    { icon: 'bilibili', link: 'https://space.bilibili.com/443837932' }
     ]
     },
 ];
