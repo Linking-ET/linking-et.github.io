@@ -84,7 +84,7 @@ const coreMembers_ops = [
     ]
     },
     {
-    avatar:'/res/avatar/temp.png',
+    avatar:'/res/avatar/EchoFisher.jpg',
     name: 'EchoFisher',
     title: '淡水之域管理员',
     desc: '小猫梁来点腿子（×）',
