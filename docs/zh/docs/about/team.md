@@ -17,10 +17,10 @@ const coreMembers_owners = [
     title: 'Kimi的万事屋服主',
     desc: '群组服最大金主<br>神级屎山代码之手<br>天天被撅',
     links: [
-        { icon: 'wordpress', link: 'https://kimimaybe29.top'},
-        { icon: 'github', link: 'https://github.com/Kimimaybe29' },
-        { icon: 'twitter', link: 'https://x.com/Kimimaybe29'},
-        { icon: 'bilibili', link: 'https://space.bilibili.com/504333259' },
+        {icon: 'wordpress', link: 'https://kimimaybe29.top'},
+        {icon: 'github', link: 'https://github.com/Kimimaybe29' },
+        {icon: 'twitter', link: 'https://x.com/Kimimaybe29'},
+        {icon: 'bilibili', link: 'https://space.bilibili.com/504333259' },
     ]
     },
     {
@@ -29,9 +29,9 @@ const coreMembers_owners = [
     title: '网站技术',
     desc: '皮肤站站长<br>论坛站长<br>前端最为出色',
     links: [
-        { icon: 'github', link: 'https://github.com/lorienyang' },
-        { icon: 'vitepress', link: 'https://www.sakuraonline.cn' },
-        { icon: 'bilibili', link: 'https://space.bilibili.com/473089208' },
+        {icon: 'github', link: 'https://github.com/lorienyang' },
+        {icon: 'vitepress', link: 'https://www.sakuraonline.cn' },
+        {icon: 'bilibili', link: 'https://space.bilibili.com/473089208' },
     ]
     },
     {
@@ -40,8 +40,10 @@ const coreMembers_owners = [
     title: '技术主管',
     desc: '群组主技术<br>开服经验较长<br>协调与解决问题较为出色',
     links: [
-        { icon:'bilibili', link: 'https://i.bilibili.com/621908460' },
-        { icon:'github',link: ' https://github.com/XChen446'}
+        {icon: 'bilibili', link: 'https://i.bilibili.com/621908460' },
+        {icon: 'github', link: 'https://github.com/XChen446'},
+        {icon: 'discord', link: 'https://discordapp.com/users/1339518058259152951'}
+      
     ]
     },
     {
@@ -77,10 +79,10 @@ const coreMembers_ops = [
     {
     avatar:'/res/avatar/1749393194-N0HAb1tor.png',
     name: 'N0HAb1tor',
-    title: 'Kimi的万事屋管理员',
+    title: '万事屋的管理员',
     desc: '来个闪电苦力怕拳',
     links: [
-    { icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
+        {icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
     ]
     },
     {
@@ -89,9 +91,18 @@ const coreMembers_ops = [
     title: '淡水之域管理员',
     desc: '小猫梁来点腿子（×）',
     links: [
-    { icon: 'bilibili', link: 'https://space.bilibili.com/443837932' }
+        {icon: 'bilibili', link: 'https://space.bilibili.com/443837932' }
     ]
     },
+    {
+    avatar:'/res/avatar/M.T.jpg',
+    name: '@M.T',
+    title: '后花园硬件维护',
+    desc: '芜↑？'
+    links: [
+        {icon: 'bilibili', link: 'https://space.bilibili.com/1473710310'}
+    ]
+    }
 ];
 </script>
 
