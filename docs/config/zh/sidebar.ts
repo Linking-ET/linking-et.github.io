@@ -15,6 +15,9 @@ export const sidebar = {
                     { text: '如何注册/登录', link: '/docs/guide/auth' },
                     { text: '客户端下载', link: '/docs/guide/modpack' },
                     { text: '进入大厅', link: '/docs/guide/hub' },
+                    { text: '显示皮肤', link: '/docs/guide/skin' },
+                    { text: '常见问题解答', link: '/docs/guide/faq' },
+                    { text: '添加名单', link: '/docs/guide/howtopr' },
                 ]
             },
             {
