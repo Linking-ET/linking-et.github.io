@@ -7,7 +7,7 @@ hero:
   text: "欢迎来到LET群组服！"
   tagline: Link everything!
   image:
-    src: res/img/bgd_img/cover_full.png
+    src: res/img/cover_full.png
     alt: VitePress
   actions:
     - theme: brand
@@ -27,7 +27,7 @@ features:
     link: /docs/water/
     linkText: 了解一下
   - title: 叶服
-    details: xc是小南娘吗？
+    details: xc艾草？
     link: /docs/ye/
     linkText: 了解一下
   - title: 呦呦的后花园

@@ -30,19 +30,19 @@ LinKing-ET群组服提供了三种验证方式:
 
   ### 基岩版
   - 启动你的**基岩版**
-  （图片施工中）
+  ![基岩版](/res/img/guide/index/bedrock/frame_000000109.png)
   - 点击**游戏**进入存档界面
-  （图片施工中）
+  ![基岩版](/res/img/guide/index/bedrock/frame_000000250.png)
   - 点击**服务器**以添加服务器
-  （图片施工中）
+  ![基岩版](/res/img/guide/index/bedrock/frame_000000293.png)
   - 点击**添加服务器**，通常会显示以下画面：
-  （图片施工中）
+  ![基岩版](/res/img/guide/index/bedrock/frame_000000357.png)
   - 在**名字**中随意输入一个你想起的名字，例如 ***!!仅做示范，不要照抄!!***
-  （图片施工中）
+  ![基岩版](/res/img/guide/index/bedrock/frame_000000822.png)
   - 在**地址**一栏中键入上述[两个ip](#ip)的其中一个  
-  （图片施工中）
+  ![基岩版](/res/img/guide/index/bedrock/frame_000000906.png)
   - 端口保持**19132**，现在可以进服游玩了
-  （图片施工中）
+  ![基岩版](/res/img/guide/index/bedrock/frame_000001017.png)
 
 
   ### Java 正版
