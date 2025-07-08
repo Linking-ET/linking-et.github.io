@@ -35,7 +35,7 @@ const coreMembers_owners = [
     ]
     },
     {
-    avatar:'/res/avatar/xc.jpg',
+    avatar:'https://avatars.githubusercontent.com/u/189126940',
     name: 'XC小陈',
     title: '技术主管',
     desc: '群组主技术<br>开服经验较长<br>协调与解决问题较为出色',
