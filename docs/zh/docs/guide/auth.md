@@ -45,4 +45,4 @@ outline: [2,3]
 > [!caution]严重警告
 > 不可重复登录超过三个账户
 
-![不可重复登录](/res/img/guide/toomuchauth.png)
+![不可重复登录](/res/img/guide/auth/toomuchauth.png)
