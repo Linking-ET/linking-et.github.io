@@ -48,8 +48,24 @@ export default defineConfig({
   vite: {
     plugins: [
       GitChangelog({
-        // Fill in your repository URL here
         repoURL: () => 'https://github.com/linking-et/linking-et.github.io',
+        mapAuthors: [
+          {
+            name: 'Lorien Yang',
+            username: 'LorienYang',
+            mapByEmailAliases: ['postmaster@sakuraonline.cn']
+          },
+          {
+            name:'Kimimaybe29',
+            username:'Kimimaybe29',
+            mapByEmailAliases:['3050473456@qq.com']
+          },
+          {
+            name:'XChen446',
+            username:'XChen446',
+            mapByEmailAliases:['3088576338@qq.com']
+          },
+        ],
       }),
       GitChangelogMarkdownSection({}),
     ],
