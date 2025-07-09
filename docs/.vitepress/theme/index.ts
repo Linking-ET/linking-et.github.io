@@ -12,6 +12,12 @@ import { useData, useRoute } from 'vitepress';
 //引入版权声明
 import CopyRight from "./components/CopyRight.vue";
 
+//引入页面历史
+import {
+  NolebaseGitChangelogPlugin
+} from '@nolebase/vitepress-plugin-git-changelog/client'
+import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
+
 export default {
   extends: DefaultTheme,
   //引入评论系统
@@ -37,7 +43,8 @@ export default {
   Layout: () => {
     return h(Layout)
   },
-  enhanceApp({ app, router, siteData }) {
+  enhanceApp({ app }) {
     app.component('CopyRight', CopyRight)
+    app.use(NolebaseGitChangelogPlugin)
   },
 } satisfies Theme

@@ -7,6 +7,10 @@ import {CustomTexts} from '../config/zh/CustomTexts'
 import {nav as ENNav} from '../config/en/nav'
 import {sidebar as ENSidebar} from '../config/en/sidebar'
 import {CustomTexts as ENCustomTexts} from '../config/en/CustomTexts'
+import {
+  GitChangelog,
+  GitChangelogMarkdownSection,
+} from '@nolebase/vitepress-plugin-git-changelog/vite'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -40,5 +44,14 @@ export default defineConfig({
   },
   rewrites: {
     'zh/:rest*': ':rest*'
+  },
+  vite: {
+    plugins: [
+      GitChangelog({
+        // Fill in your repository URL here
+        repoURL: () => 'https://github.com/linking-et/linking-et.github.io',
+      }),
+      GitChangelogMarkdownSection({}),
+    ],
   },
 })
