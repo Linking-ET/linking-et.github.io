@@ -3,7 +3,7 @@ export const CustomTexts = {
     description: "欢迎加入LET万事屋群组服！",
     socialLinks: [
         { icon: 'github', link: 'https://github.com/linking-et/linking-et.github.io' },
-        { icon: 'discord', link: 'https://discord.gg/5UMnfSMR' },
+        { icon: 'discord', link: 'https://discord.gg/bmMJdAAJmQ' },
     ],
     docFooter: {
         prev: '上一页',
