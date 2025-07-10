@@ -7,6 +7,10 @@ import {CustomTexts} from '../config/zh/CustomTexts'
 import {nav as ENNav} from '../config/en/nav'
 import {sidebar as ENSidebar} from '../config/en/sidebar'
 import {CustomTexts as ENCustomTexts} from '../config/en/CustomTexts'
+import {
+  GitChangelog,
+  GitChangelogMarkdownSection,
+} from '@nolebase/vitepress-plugin-git-changelog/vite'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -40,5 +44,30 @@ export default defineConfig({
   },
   rewrites: {
     'zh/:rest*': ':rest*'
+  },
+  vite: {
+    plugins: [
+      GitChangelog({
+        repoURL: () => 'https://github.com/linking-et/linking-et.github.io',
+        mapAuthors: [
+          {
+            name: 'Lorien Yang',
+            username: 'LorienYang',
+            mapByEmailAliases: ['postmaster@sakuraonline.cn']
+          },
+          {
+            name:'Kimimaybe29',
+            username:'Kimimaybe29',
+            mapByEmailAliases:['3050473456@qq.com']
+          },
+          {
+            name:'XChen446',
+            username:'XChen446',
+            mapByEmailAliases:['3088576338@qq.com']
+          },
+        ],
+      }),
+      GitChangelogMarkdownSection({}),
+    ],
   },
 })
