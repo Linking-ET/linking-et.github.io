@@ -16,12 +16,13 @@ const coreMembers_owners = [
     avatar:'/res/avatar/1749393192-Kimimustbe29.png',
     name: 'Kimimaybe29',
     title: 'Kimi的万事屋服主',
-    desc: '群组服最大金主<br>神级屎山代码之手',
+    desc: '群组服最大金主<br>神级屎山代码之手<br>欢迎来我的个人网站看看<br>↓',
     links: [
-        {icon: 'wordpress', link: 'https://kimimaybe29.top'},
         {icon: 'github', link: 'https://github.com/Kimimaybe29' },
         {icon: 'twitter', link: 'https://x.com/Kimimaybe29'},
+        {icon: 'wordpress', link: 'https://kimimaybe29.top'},
         {icon: 'bilibili', link: 'https://space.bilibili.com/504333259' },
+        {icon: 'discord', link: 'https://discordapp/com/users/1353211380085428289'},
     ]
     },
     {
@@ -43,7 +44,7 @@ const coreMembers_owners = [
     links: [
         {icon: 'bilibili', link: 'https://i.bilibili.com/621908460' },
         {icon: 'github', link: 'https://github.com/XChen446'},
-        {icon: 'discord', link: 'https://discordapp.com/users/1339518058259152951'}
+        {icon: 'discord', link: 'https://discordapp.com/users/1339518058259152951'},
       
     ]
     },
