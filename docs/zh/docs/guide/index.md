@@ -15,7 +15,7 @@ LinKing-ET群组服提供了三种验证方式:
 同时有两条进服通道:
 
 > 境内ip： **cn.link-et.link** <a id="ip"></a><br>
-> 境外ip： **www.link-et.link**
+> 境外ip： **game.link-et.link**
 
 ## 进服前准备
 
