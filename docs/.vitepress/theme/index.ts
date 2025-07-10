@@ -17,6 +17,12 @@ import {
   NolebaseGitChangelogPlugin
 } from '@nolebase/vitepress-plugin-git-changelog/client'
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
+//引入阅读增强
+import {
+  NolebaseEnhancedReadabilitiesMenu,
+  NolebaseEnhancedReadabilitiesScreenMenu,
+} from '@nolebase/vitepress-plugin-enhanced-readabilities/client'
+import '@nolebase/vitepress-plugin-enhanced-readabilities/client/style.css'
 
 export default {
   extends: DefaultTheme,
@@ -41,7 +47,11 @@ export default {
     )
   },
   Layout: () => {
-    return h(Layout)
+    return h(Layout,null,{
+      'nav-bar-content-after': () => h(NolebaseEnhancedReadabilitiesMenu),
+      // A enhanced readabilities menu for narrower screens (usually smaller than iPad Mini)
+      'nav-screen-content-after': () => h(NolebaseEnhancedReadabilitiesScreenMenu),
+    })
   },
   enhanceApp({ app }) {
     app.component('CopyRight', CopyRight)
