@@ -49,6 +49,9 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
     <template #doc-footer-before>
       <CopyRight v-if="frontmatter.copyright" />
     </template>
+    <template v-for="(_, name) in $slots" #[name]="slotProps">
+      <slot :name="name" v-bind="slotProps" />
+    </template>
   </DefaultTheme.Layout>
 </template>
 

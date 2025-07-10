@@ -46,6 +46,20 @@ export default defineConfig({
     'zh/:rest*': ':rest*'
   },
   vite: {
+    optimizeDeps: {
+      exclude: [
+        '@nolebase/vitepress-plugin-enhanced-readabilities/client',
+        'vitepress',
+        '@nolebase/ui',
+      ],
+    },
+    ssr: {
+      noExternal: [
+        // If there are other packages that need to be processed by Vite, you can add them here.
+        '@nolebase/vitepress-plugin-enhanced-readabilities',
+        '@nolebase/ui',
+      ],
+    },
     plugins: [
       GitChangelog({
         repoURL: () => 'https://github.com/linking-et/linking-et.github.io',
@@ -67,7 +81,19 @@ export default defineConfig({
           },
         ],
       }),
-      GitChangelogMarkdownSection({}),
+      GitChangelogMarkdownSection({
+      }),
     ],
+  },
+  sitemap: {
+    hostname: 'https://www.link-et.link',
+    transformItems(items:any[]) {
+      return items
+          .filter(item => !item.url.includes('migration'))
+          .map(item => ({
+            url: item.url,
+            lastmod: item.lastUpdated || new Date().toISOString(),
+          }))
+    }
   },
 })
