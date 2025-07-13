@@ -2,6 +2,7 @@
 layout: doc
 outline: [2,3]
 copyright: true
+BV: "BV1LiNXzTEDD"
 ---
 # 进服教学
 
@@ -57,3 +58,4 @@ LinKing-ET群组服提供了三种验证方式:
 
   - 启动器内创建一个离线账户
 
+<BVideo />

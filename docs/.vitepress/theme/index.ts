@@ -11,6 +11,7 @@ import { useData, useRoute } from 'vitepress';
 
 //引入版权声明
 import CopyRight from "./components/CopyRight.vue";
+import BVideo from "./components/BVideo.vue";
 
 //引入页面历史
 import {
@@ -56,5 +57,6 @@ export default {
   enhanceApp({ app }) {
     app.component('CopyRight', CopyRight)
     app.use(NolebaseGitChangelogPlugin)
+    app.component('BVideo', BVideo)
   },
 } satisfies Theme
