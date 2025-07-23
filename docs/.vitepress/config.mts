@@ -17,6 +17,7 @@ export default defineConfig({
   title: "LinKing-ET",
   cleanUrls: true,
   lastUpdated:true,
+  head: [['link', { rel: 'icon', href: '/res/svg/bread.svg' }]],
   locales:{
     root:{
       label:"简体中文",
