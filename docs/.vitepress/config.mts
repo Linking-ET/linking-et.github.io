@@ -12,12 +12,23 @@ import {
   GitChangelogMarkdownSection,
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
 
+const GA_MEASUREMENT_ID = 'G-4BY6G2RM8N';
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "LinKing-ET",
   cleanUrls: true,
   lastUpdated:true,
-  head: [['link', { rel: 'icon', href: '/res/svg/bread.svg' }]],
+  head: [
+      ['link', { rel: 'icon', href: '/res/svg/bread.svg' }],
+      ['script', { async: true, src: `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}` }],
+      ['script', {}, `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '${GA_MEASUREMENT_ID}');
+      `]
+  ],
   locales:{
     root:{
       label:"简体中文",
