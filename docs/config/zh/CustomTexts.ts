@@ -28,8 +28,4 @@ export const CustomTexts = {
     lightModeSwitchTitle: '投掷闪光弹！',
     darkModeSwitchTitle: 'Deep♂ Dark♂ Fantasy♂',
     skipToContentLabel: '跳转到内容',
-    footer:{
-        message:'本网站以<a href="https://github.com/Linking-ET/linking-et.github.io/blob/main/LICENSE" target="_blank">GNU General Public License v3.0</a>条款发布.',
-        copyright:'Copyright © 2025 Linking-ET All rights reserved.',
-    },
 };

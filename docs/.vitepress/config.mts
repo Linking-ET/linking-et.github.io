@@ -23,6 +23,7 @@ export default defineConfig({
       label:"简体中文",
       lang:'zh-Hans',
       themeConfig: {
+        lastUpdated:false,
         nav,
         sidebar,
         ...CustomTexts
@@ -32,6 +33,7 @@ export default defineConfig({
       label:"English",
       lang:'en-US',
       themeConfig: {
+        lastUpdated:false,
         nav:ENNav,
         sidebar:ENSidebar,
         ...ENCustomTexts
@@ -39,6 +41,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
+    lastUpdated:false,
     i18nRouting: true,
     logo: '/res/img/logo.png',
     siteTitle: false,
