@@ -99,7 +99,7 @@ const coreMembers_ops = [
     {
     avatar:'/res/avatar/M.T.jpg',
     name: '@M.T',
-    title: '后花园硬件维护',
+    title: 'TOC吉祥物（？）',
     desc: '芜↑？',
     links: [
         {icon: 'bilibili', link: 'https://space.bilibili.com/1473710310'}
