@@ -31,8 +31,8 @@ features:
     details: xc艾草？
     link: /docs/ye/
     linkText: 了解一下
-  - title: 呦呦的后花园
+  - title: 蘿蔔服
     details: 你好喵，欢迎喵
-    link: /docs/yoyo/
+    link: /docs/carrot/
     linkText: 了解一下
 ---

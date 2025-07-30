@@ -17,7 +17,7 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: 'Kimi的万事屋', link: '/docs/kimi/' },
             { text: '淡水之域', link: '/docs/water/' },
             { text: '叶服',link: '/docs/ye/' },
-            { text: '呦呦的后花园',link: '/docs/yoyo/' }
+            { text: '蘿蔔服',link: '/docs/carrot/' }
         ]
     }
 ];

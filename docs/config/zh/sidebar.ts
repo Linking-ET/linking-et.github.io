@@ -26,7 +26,7 @@ export const sidebar = {
                     {
                         text: 'Kimi的万事屋',
                         items: [
-                            { text: '简介', link: '/docs/kimi/' }, 
+                            { text: '简介', link: '/docs/kimi/' },
                             //{ text: '成员', link: '/docs/kimi/team' },
                         ]
                     },
@@ -47,8 +47,8 @@ export const sidebar = {
                     {
                         text: '呦呦的后花园',
                         items:[
-                            { text: '简介', link: '/docs/yoyo/' },
-                            //{ text: '成员', link: '/docs/yoyo/team' },
+                            { text: '简介', link: '/docs/carrot/' },
+                            //{ text: '成员', link: '/docs/carrot/team' },
                         ]
                     }
                 ]

@@ -9,7 +9,7 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: 'Kimi home', link: '/en/docs/kimi' },
             { text: 'freshwater region', link: '/en/docs/water' },
             { text: 'leaf page',link: '/en/docs/ye' },
-            { text: 'yoyo backyard',link: '/en/docs/yoyo' }
+            { text: 'carrot backyard',link: '/en/docs/carrot' }
         ]
     }
 ];
