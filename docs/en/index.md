@@ -33,7 +33,7 @@ features:
     linkText: learn more
   - title: Yoyo backyards
     details: a plugin server
-    link: /en/docs/you
+    link: /en/docs/carrot
     linkText: learn more
 ---
 

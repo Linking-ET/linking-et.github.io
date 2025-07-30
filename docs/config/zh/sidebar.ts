@@ -45,7 +45,7 @@ export const sidebar = {
                         ]
                     },
                     {
-                        text: '呦呦的后花园',
+                        text: '蘿蔔服',
                         items:[
                             { text: '简介', link: '/docs/carrot/' },
                             //{ text: '成员', link: '/docs/carrot/team' },

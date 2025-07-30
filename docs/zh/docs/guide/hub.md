@@ -18,7 +18,7 @@ outline: [2,3]
 > 前往[淡水之域](/docs/water/)<br>
 > 前往[Kimi的万事屋](/docs/kimi/)<br>
 > 前往[叶服](/docs/ye/)<br>
-> 前往[呦呦的后花园](/docs/yoyo/)
+> 前往[呦呦的后花园](/docs/carrot/)
 
 ### 别点错了！
 
@@ -68,7 +68,7 @@ outline: [2,3]
 | 水瓶      |  前往[淡水之域](/docs/water/) | 
 | 附魔台    |  前往[Kimi的万事屋](/docs/kimi/)     |
 | 红石粉    | 前往[叶服](/docs/ye/)             |
-| 热带鱼    | 前往[呦呦的后花园](/docs/yoyo/)   |
+| 热带鱼    | 前往[呦呦的后花园](/docs/carrot/)   |
 :::
 
 ### 传送弓
