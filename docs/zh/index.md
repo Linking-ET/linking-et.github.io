@@ -17,6 +17,9 @@ hero:
     - theme: alt
       text: 游玩教学
       link: /docs/guide/
+    - theme: alt
+      text: 服务实时监控
+      link: https://status.link-et.link
 
 features:
   - title: Kimi的万事屋
