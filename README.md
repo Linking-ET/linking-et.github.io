@@ -1,3 +1,3 @@
 # LinKing-ET
 
-[](https://www.link-et.link)
+[Link-ET](https://www.link-et.link)
