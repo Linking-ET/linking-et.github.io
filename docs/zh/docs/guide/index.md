@@ -2,7 +2,7 @@
 layout: doc
 outline: [2,3]
 copyright: true
-BV: "BV1LiNXzTEDD"
+BV: "BV136LUz5E3o"
 ---
 # 进服教学
 
@@ -16,15 +16,15 @@ LinKing-ET群组服提供了三种验证方式:
 同时有两条进服通道:
 
 > 境内ip： **cn.link-et.link** <a id="ip"></a><br>
-> 境外ip： **game.link-et.link**
+> 境外ip： **hk.link-et.link**
 
 ## 进服前准备
 
   ### 基岩版
-  - 服务器会联网更新geyser版本，用最新版本进服即可
+  - 服务器会联网自更新geyser版本，用最新版本进服即可，如有版本异常可以进群寻求管理更新
 
   ### Java版
-  - 根据你的设备选取启动器，这一步完全遵循个人喜好。手机可选FCL、Projav（已停更）等，Windows电脑可选HMCL、PCL2等精美启动器，Mac和Linux电脑可选择HMCL等可作为jar文件跨平台运行的启动器
+  - 根据你的设备选取启动器，这一步完全遵循个人喜好。手机可选FCL（🟢）、Projav（🟡），HMCL-PE（🔴）等，Windows电脑可选HMCL、PCL2等精美启动器，Mac和Linux电脑可选择HMCL等可作为jar文件跨平台运行的启动器
   - 访问[客户端下载](/docs/guide/modpack)获取你想游玩的服务器的整合包并安装在启动器内
 
 ## 进服步骤
