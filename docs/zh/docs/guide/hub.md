@@ -22,9 +22,6 @@ outline: [2,3]
 
 ### 别点错了！
 
-> [!warning]注意
-> 使用*右键* **而非左键** 点击对应NPC进行跨服传送
-
 ![切换服务器](/res/img/guide/hub/switchservernpc.gif)
 
 ### NPC详情
@@ -34,7 +31,7 @@ outline: [2,3]
 | ------------- | :-----------: | ----: |
 | 小游戏区服      | 皮肤提供者: XC小陈<br>正版名: \_XIAOCHEN\_ | ![小游戏区服](/res/img/guide/hub/npcxc.png) |
 |   前往水服  |  皮肤提供者: 淡水<br>正版名: freshwater111     |  ![前往水服](/res/img/guide/hub/npcwater.png)  |
-| 前往主服 |    皮肤提供者: Kimimaybe29<br>正版名: Kimimightbe29<br>左手头颅（右侧）: Kimimaybe29<br>右手头颅（左侧）: Kimimustbe29<br>（没错这人有三个正版）  |  ![前往主服](/res/img/guide/hub/npckimi.png)   |
+| 前往主服 |    皮肤提供者: Kimimaybe29<br>正版名: Kimimightbe29      |  ![前往主服](/res/img/guide/hub/npckimi.png)   |
 |前往叶服 | 皮肤提供者: 柠言千枫<br>正版: 暂无 | ![前往叶服](/res/img/guide/hub/npcye.png)|
 | 后花园 | 皮肤提供者: 呦呦<br>正版: 暂无 | ![后花园](/res/img/guide/hub/npcyoyo.png) |
 :::
@@ -79,7 +76,7 @@ outline: [2,3]
 
 > [!note]使用方法
 > 作用正如其名，会将使用者传送到箭矢的落点<br>
-> 有距离限制，最多传送100格<br>
+> 有距离限制，最多传送100格（话说我们登录大厅有那么大喵？）<br>
 > 使用一次冷却5秒<br>
 
 ![传送弓使用](/res/img/guide/hub/tpbowluse.gif)
@@ -108,7 +105,7 @@ outline: [2,3]
 
 ![pvp开关使用](/res/img/guide/hub/pvpswitchuse.gif)
 
-> 是的，大厅还有娱乐功能
+> 是的，大厅还有娱乐功能（但我们不建议在大厅进行pvp，延迟较高，可以选择对应的小游戏区服）
 
 ### 公告书
 
