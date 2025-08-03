@@ -9,7 +9,7 @@ export const sidebar = {
                 ]
             },
             {
-                text:'游玩教程',
+                text: '游玩教程',
                 items:[
                     { text: '入服教学', link: '/docs/guide/' },
                     { text: '如何注册/登录', link: '/docs/guide/auth' },
@@ -50,7 +50,13 @@ export const sidebar = {
                             { text: '简介', link: '/docs/carrot/' },
                             //{ text: '成员', link: '/docs/carrot/team' },
                         ]
-                    }
+                    },
+                ]
+            },
+            {
+                text: '准则',
+                items:[
+                    { text: '内容编写准则', link: '/docs/rule/EditRule' },
                 ]
             }
         ]

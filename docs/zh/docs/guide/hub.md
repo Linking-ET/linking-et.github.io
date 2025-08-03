@@ -97,7 +97,7 @@ outline: [2,3]
 
 - 一把钻石剑
 
-![pvp开关](/res/img/guide/hub/pvpswitch.png)
+![pvp开关](/res/img/guide/hub/pvpswitch.png =500x360)
 
 > [!NOTE]使用方法
 > 手执五秒会切换进pvp模式<br>
@@ -120,7 +120,7 @@ outline: [2,3]
 
 - 进服后往前上方看，会看见一位npc
 
-![跑酷NPC](/res/img/guide/hub/npcparkour.png)
+![跑酷NPC](/res/img/guide/hub/npcparkour.png =640x360)
 
 > [!info]NPC皮肤信息
 > 皮肤提供者：ec <br>
@@ -134,9 +134,9 @@ outline: [2,3]
 > 谁能通过这段跑酷并提供录屏证明自己没作弊<br>
 > 能获得奖励哦
 
-![跑酷开始](/res/img/guide/hub/parkourstart.png)
+![跑酷开始](/res/img/guide/hub/parkourstart.png =640x360)
 
-![跑酷结尾](/res/img/guide/hub/parkourend.png)
+![跑酷结尾](/res/img/guide/hub/parkourend.png =640x360)
 
 ### ???
 - ???

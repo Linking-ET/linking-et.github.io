@@ -3,6 +3,7 @@
   "devDependencies": {
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.18.0",
     "@nolebase/vitepress-plugin-git-changelog": "^2.18.0",
+    "markdown-it-imsize": "^2.0.1",
     "vitepress": "^1.6.3"
   },
   "scripts": {

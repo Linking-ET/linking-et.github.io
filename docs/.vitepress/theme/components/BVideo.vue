@@ -6,8 +6,8 @@
             frameborder="no"
             framespacing="0"
             allowfullscreen="true"
-            width="668"
-            height="376">
+            width="600"
+            height="360">
     </iframe>
   </div>
 </template>

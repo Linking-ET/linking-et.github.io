@@ -11,6 +11,7 @@ import {
   GitChangelog,
   GitChangelogMarkdownSection,
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
+import imsize from 'markdown-it-imsize'
 
 const GA_MEASUREMENT_ID = 'G-4BY6G2RM8N';
 
@@ -19,6 +20,11 @@ export default defineConfig({
   title: "LinKing-ET",
   cleanUrls: true,
   lastUpdated:true,
+  markdown: {
+    config: (md) => {
+      md.use(imsize)
+    }
+  },
   head: [
       ['link', { rel: 'icon', href: '/res/svg/bread.svg' }],
       ['script', { async: true, src: `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}` }],

@@ -19,5 +19,11 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '叶服',link: '/docs/ye/' },
             { text: '蘿蔔服',link: '/docs/carrot/' }
         ]
+    },
+    {
+        text:'准则',
+        items: [
+            {text:'内容编写准则',link:'/docs/rule/EditRule'}
+        ]
     }
 ];
