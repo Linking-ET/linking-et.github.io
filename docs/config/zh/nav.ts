@@ -7,8 +7,7 @@ export const nav: DefaultTheme.NavItem[] = [
     { text: '了解我们',
         items: [
             { text: '我们是谁？', link: '/docs/about' },
-            { text: '核心成员列表', link: '/docs/about/team'},
-            { text: '安全发言准则', link: '/docs/about/rule'},
+            { text: '核心成员列表', link: '/docs/about/team'}
         ]
     },
     {
@@ -23,7 +22,8 @@ export const nav: DefaultTheme.NavItem[] = [
     {
         text:'准则',
         items: [
-            {text:'内容编写准则',link:'/docs/rule/EditRule'}
+            { text: '内容编写准则', link:'/docs/rule/EditRule'},
+            { text: '安全发言准则', link: '/docs/rule/MsgRule'},
         ]
     }
 ];
