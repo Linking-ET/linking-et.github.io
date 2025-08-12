@@ -25,5 +25,12 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '内容编写准则', link:'/docs/rule/EditRule'},
             { text: '安全发言准则', link: '/docs/rule/MsgRule'},
         ]
+    },
+    {
+        text: '其他服务',
+        items:[
+            {text: '网盘', link:'https://pan.link-et.link'},
+            //{text: '服务器地图', link:'https://map.link-et.link'},
+        ]
     }
 ];
