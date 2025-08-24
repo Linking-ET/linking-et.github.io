@@ -17,7 +17,6 @@ export const sidebar = {
                     { text: '显示皮肤', link: '/docs/guide/skin' },
                     { text: '常见问题解答', link: '/docs/guide/faq' },
                     { text: '添加名单', link: '/docs/guide/howtopr' },
-                    { text: '赞助支持我们', link: '/docs/guide/donate' },
                 ]
             },
             {
@@ -27,7 +26,6 @@ export const sidebar = {
                         text: 'Kimi的万事屋',
                         items: [
                             { text: '简介', link: '/docs/kimi/' },
-                            { text: '乐魂空岛', link: '/docs/kimi/skyland' },
                             //{ text: '成员', link: '/docs/kimi/team' },
                         ]
                     },
