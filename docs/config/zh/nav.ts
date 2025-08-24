@@ -14,6 +14,7 @@ export const nav: DefaultTheme.NavItem[] = [
         text: '服务器列表',
         items: [
             { text: 'Kimi的万事屋', link: '/docs/kimi/' },
+            { text: '乐魂空岛', link: '/docs/kimi/skyland' },
             { text: '淡水之域', link: '/docs/water/' },
             { text: '叶服',link: '/docs/ye/' },
             { text: '蘿蔔服',link: '/docs/carrot/' }
