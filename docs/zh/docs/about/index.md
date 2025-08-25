@@ -17,7 +17,7 @@ Linking-ET组建于2025年3月22日，初始创始人只有Kimimaybe29、xc小�
 ## 注意事项
 > [!caution]以下所有注意事项为全服通用
 - 服务器全服支持[simple voice chat语音聊天](https://www.mcmod.cn/class/3693.html)，但不支持跨服聊天，使用中遇到情况请及时报告管理
-- 服务器全服支持[YSM是，史蒂夫模型](https://www.mcmod.cn/class/8616.html)，如果你要上传你的模型请联系群内管理审核，以及确认你手中模型版权详情，是否适用于此服务器使用
+- 服务器全服支持[YSM是，史蒂夫模型](https://www.mcmod.cn/class/8616.html)，如果你要上传你的模型请联系群内管理审核，[模型注意事项](/docs/guide/skin#ysm模型上传注意事项)
 - 服务器半支持[Distant Horizons遥远地平线](https://www.mcmod.cn/class/5009.html)模组，有条件的玩家请自行安装该模组以获得更好的视距体验
 - 服务器半支持[Emotecraft表情工艺](https://www.mcmod.cn/class/3507.html)模组，有条件的玩家请自行安装该模组以获得更好的表情动作体验，如果有更好的动作想法也可以联系管理
 > [!tip]以上模组皆为客户端可选，即使未安装也不影响进入服务器，但我们仍然推荐安装这些模组！

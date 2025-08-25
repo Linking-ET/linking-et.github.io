@@ -36,3 +36,8 @@
 - 支持[poopsky](https://www.mcmod.cn/class/19614.html)模组，搞怪发展科技都适合(doge)
 
 - 支持[滚筒飞行](https://www.mcmod.cn/class/7724.html)模组，飞行更刺激！
+
+
+## 不是，新版本更新了什么，好久没上我都不知道xc往里塞了多少mod了
+
+- 谁爱写来写吧，趴了
