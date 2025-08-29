@@ -13,6 +13,9 @@ import {
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
 import imsize from 'markdown-it-imsize'
 
+import UnoCSS from 'unocss/vite'
+import presetWind3 from "@unocss/preset-wind3";
+
 const GA_MEASUREMENT_ID = 'G-4BY6G2RM8N';
 
 // https://vitepress.dev/reference/site-config
@@ -82,7 +85,7 @@ export default defineConfig({
       ],
     },
     plugins: [
-      GitChangelog({
+        GitChangelog({
         repoURL: () => 'https://github.com/linking-et/linking-et.github.io',
         mapAuthors: [
           {
@@ -102,8 +105,8 @@ export default defineConfig({
           },
         ],
       }),
-      GitChangelogMarkdownSection({
-      }),
+        GitChangelogMarkdownSection({}),
+        UnoCSS({}),
     ],
   },
   sitemap: {

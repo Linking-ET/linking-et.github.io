@@ -12,6 +12,10 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
+    "@unocss/preset-attributify": "^66.4.2",
+    "@unocss/preset-icons": "^66.4.2",
+    "@unocss/preset-wind3": "^66.4.2",
+    "unocss": "^66.4.2",
     "vitepress-plugin-comment-with-giscus": "^1.1.15"
   }
 }

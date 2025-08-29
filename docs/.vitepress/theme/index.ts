@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import 'virtual:uno.css'
 import './style.css'
 import Layout from "./components/Layout.vue";
 
@@ -9,9 +10,10 @@ import Layout from "./components/Layout.vue";
 import giscusTalk from 'vitepress-plugin-comment-with-giscus';
 import { useData, useRoute } from 'vitepress';
 
-//引入版权声明
+//引入Vue组件
 import CopyRight from "./components/CopyRight.vue";
 import BVideo from "./components/BVideo.vue";
+import Donate from "./components/donate.vue";
 
 //引入页面历史
 import {
@@ -58,5 +60,6 @@ export default {
     app.component('CopyRight', CopyRight)
     app.use(NolebaseGitChangelogPlugin)
     app.component('BVideo', BVideo)
+    app.component('Donate',Donate)
   },
 } satisfies Theme

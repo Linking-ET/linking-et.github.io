@@ -51,6 +51,4 @@
 
 ## 赞助渠道
 
-![Kimimaybe29](/res/img/donate/Kimimaybe29.jpg)
-![Lorienyang](/res/img/donate/Lorienyang.jpg)
-![freshwater](/res/img/donate/freshwater.jpg)
+<Donate />
