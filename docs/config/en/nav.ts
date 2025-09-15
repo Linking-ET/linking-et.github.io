@@ -8,7 +8,7 @@ export const nav: DefaultTheme.NavItem[] = [
         items: [
             { text: 'Kimi home', link: '/en/docs/kimi' },
             { text: 'freshwater region', link: '/en/docs/water' },
-            { text: 'leaf page',link: '/en/docs/ye' },
+            { text: 'leaf page',link: '/en/docs/leaf' },
             { text: 'carrot backyard',link: '/en/docs/carrot' }
         ]
     }

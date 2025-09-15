@@ -29,7 +29,7 @@ features:
     linkText: learn more
   - title: Leaf page
     details: a mod server
-    link: /en/docs/ye
+    link: /en/docs/leaf
     linkText: learn more
   - title: Yoyo backyards
     details: a plugin server

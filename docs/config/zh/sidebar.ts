@@ -41,8 +41,8 @@ export const sidebar = {
                     {
                         text: '叶服',
                         items:[
-                            { text: '简介', link: '/docs/ye/' },
-                            //{ text: '成员', link: '/docs/ye/team' },
+                            { text: '简介', link: '/docs/leaf/' },
+                            //{ text: '成员', link: '/docs/leaf/team' },
                         ]
                     },
                     {

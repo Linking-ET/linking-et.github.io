@@ -49,7 +49,7 @@ const coreMembers_owners = [
     ]
     },
     {
-    avatar: '/res/avatar/water.png',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=693361027&s=640',
     name: '淡水',
     title: '淡水之域服主',
     desc: '可能是杂鱼？<br>（ps:EchoFisher）',
@@ -68,13 +68,11 @@ const coreMembers_owners = [
     ]
     },
     {
-    avatar: '/res/avatar/yoyo.jpg',
-    name: 'gezhe',
-    title: '呦呦的后花园服主',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1634765962&s=640',
+    name: '水萝卜_CafeChannel',
+    title: '蘿蔔服主',
     desc: '欸？',
-    links:[
-        {icon: 'twitter',link: 'https://x.com/andy7770359559'}
-    ]
+    links:[]
     }
 ];
 const coreMembers_ops = [
@@ -88,7 +86,16 @@ const coreMembers_ops = [
     ]
     },
     {
-    avatar:'/res/avatar/EchoFisher.jpg',
+    avatar:'https://q1.qlogo.cn/g?b=qq&nk=3556314884&s=640',
+    name: 'ElfPlayer887454',
+    title: '蘿蔔服管理员',
+    desc: '是只人畜无害的管理喵（？',
+    links: [
+        {icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
+    ]
+    },
+    {
+    avatar:'https://q1.qlogo.cn/g?b=qq&nk=1437727100&s=640',
     name: 'EchoFisher',
     title: '淡水之域管理员',
     desc: '小猫梁来点腿子（×）',
@@ -97,7 +104,7 @@ const coreMembers_ops = [
     ]
     },
     {
-    avatar:'/res/avatar/M.T.jpg',
+    avatar:'https://q1.qlogo.cn/g?b=qq&nk=2907331904&s=640',
     name: '@M.T',
     title: 'TOC吉祥物（？）',
     desc: '芜↑？',
