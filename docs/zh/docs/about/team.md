@@ -89,7 +89,7 @@ const coreMembers_ops = [
     avatar:'https://q1.qlogo.cn/g?b=qq&nk=3556314884&s=640',
     name: 'ElfPlayer887454',
     title: '蘿蔔服管理员',
-    desc: '上课去了',
+    desc: '是只人畜无害的管理喵（？',
     links: [
         {icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
     ]
