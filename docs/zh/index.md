@@ -32,7 +32,7 @@ features:
     linkText: 了解一下
   - title: 叶服
     details: xc艾草？
-    link: /docs/ye/
+    link: /docs/leaf/
     linkText: 了解一下
   - title: 蘿蔔服
     details: 你好喵，欢迎喵

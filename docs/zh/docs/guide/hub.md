@@ -17,7 +17,7 @@ outline: [2,3]
 > 前往小游戏服<br>
 > 前往[淡水之域](/docs/water/)<br>
 > 前往[Kimi的万事屋](/docs/kimi/)<br>
-> 前往[叶服](/docs/ye/)<br>
+> 前往[叶服](/docs/leaf/)<br>
 > 前往[呦呦的后花园](/docs/carrot/)
 
 ### 别点错了！
@@ -64,7 +64,7 @@ outline: [2,3]
 | 时钟      | 前往小游戏服                      |
 | 水瓶      |  前往[淡水之域](/docs/water/) | 
 | 附魔台    |  前往[Kimi的万事屋](/docs/kimi/)     |
-| 红石粉    | 前往[叶服](/docs/ye/)             |
+| 红石粉    | 前往[叶服](/docs/leaf/)             |
 | 热带鱼    | 前往[呦呦的后花园](/docs/carrot/)   |
 :::
 
