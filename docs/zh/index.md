@@ -31,7 +31,7 @@ features:
     link: /docs/water/
     linkText: 了解一下
   - title: 叶服
-    details: xc艾草？
+    details: 补药艾草谢谢
     link: /docs/leaf/
     linkText: 了解一下
   - title: 蘿蔔服
