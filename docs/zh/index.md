@@ -38,4 +38,8 @@ features:
     details: 你好喵，欢迎喵
     link: /docs/carrot/
     linkText: 了解一下
+  - title: 魔法服
+    details: 史诗级爆炸魔法干坏服务器
+    link: /docs/magic/
+    linkText: 了解一下
 ---
