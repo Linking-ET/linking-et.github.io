@@ -17,7 +17,8 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '乐魂空岛', link: '/docs/kimi/skyland' },
             { text: '淡水之域', link: '/docs/water/' },
             { text: '叶服',link: '/docs/leaf/' },
-            { text: '蘿蔔服',link: '/docs/carrot/' }
+            { text: '蘿蔔服',link: '/docs/carrot/' },
+            { text: '魔法服',link: '/docs/magic/' }
         ]
     },
     {
