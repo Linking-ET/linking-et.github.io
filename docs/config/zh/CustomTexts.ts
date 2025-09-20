@@ -4,6 +4,7 @@ export const CustomTexts = {
     socialLinks: [
         { icon: 'github', link: 'https://github.com/linking-et/linking-et.github.io' },
         { icon: 'discord', link: 'https://discord.link-et.link' },
+        { icon: 'qq', link: 'https://qm.qq.com/q/IUc78m41yY' },
     ],
     docFooter: {
         prev: '上一页',
