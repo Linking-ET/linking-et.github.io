@@ -4,6 +4,7 @@
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.18.0",
     "@nolebase/vitepress-plugin-git-changelog": "^2.18.0",
     "markdown-it-imsize": "^2.0.1",
+    "vite-plugin-vue-devtools": "^8.0.1",
     "vitepress": "^1.6.3"
   },
   "scripts": {
@@ -16,6 +17,7 @@
     "@unocss/preset-icons": "^66.4.2",
     "@unocss/preset-wind3": "^66.4.2",
     "unocss": "^66.4.2",
-    "vitepress-plugin-comment-with-giscus": "^1.1.15"
+    "vitepress-plugin-comment-with-giscus": "^1.1.15",
+    "vue": "^3.5.21"
   }
 }
