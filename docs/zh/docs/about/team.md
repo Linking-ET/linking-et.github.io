@@ -73,6 +73,15 @@ const coreMembers_owners = [
     title: '蘿蔔服主',
     desc: '欸？',
     links:[]
+    },
+    {
+    avatar: '/res/avatar/I_am_a_loliking.png',
+    name: '太阳烤',
+    title: '魔法服腐竹',
+    desc: '喵喵喵？',
+    links:[
+        {icon: 'bilibili',link: 'https://space.bilibili.com/473233505'}
+    ]
     }
 ];
 const coreMembers_ops = [

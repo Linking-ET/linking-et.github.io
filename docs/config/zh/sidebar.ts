@@ -52,6 +52,13 @@ export const sidebar = {
                             //{ text: '成员', link: '/docs/carrot/team' },
                         ]
                     },
+                    {
+                        text: '魔法服',
+                        items:[
+                            { text: '简介', link: '/docs/magic/' },
+                            //{ text: '成员', link: '/docs/carrot/team' },
+                        ]
+                    },
                 ]
             },
             {
