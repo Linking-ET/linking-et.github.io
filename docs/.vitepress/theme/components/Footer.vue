@@ -4,6 +4,10 @@
       <p class="vp-footer-copyright">
         Copyright &copy; {{ currentYear }} LinKing-ET.
       </p>
+      <br>
+      <p class="vp-footer-copyright">
+        "Minecraft" 以及"我的世界"为 Mojang AB 的商标，Linking-ET 与 Mojang 以及 Microsoft 没有任何从属关系。Linking-ET 不是 Minecraft 官方的服务器。
+      </p>
       <p class="vp-footer-poweredby">
         Powered by <a href="https://vitepress.dev/" target="_blank" rel="noopener">VitePress</a>.
       </p>

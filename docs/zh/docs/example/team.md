@@ -12,28 +12,28 @@ import {
 
 const ops = [
     {
-    avatar: '/res/avatar/yoyo.jpg',
-    name: 'gezhe',
-    title: '服主',
-    desc: '你是谁？<br>为什么看得见我？<br>警告你啊！  别惹我！  如果你惹了我！<br>那……那...什么也不会发生！<br>恭喜你，你惹到了世界上最好惹的人',
+    avatar: '/res/avatar/example.jpg',
+    name: 'example',
+    title: '管理',
+    desc: '这是备注这是备注这是备注',
     links:[
-        {icon: 'twitter',link: 'https://x.com/andy7770359559'}
+        {}
     ]
     }
 ];
 const players = [
     {
-    avatar:'/res/avatar/M.T.jpg',
-    name: '@M.T',
-    desc: '服务器提供者<br>不参与实际服务器管理',
+    avatar:'/res/avatar/example.jpg',
+    name: '玩家',
+    desc: '这是备注这是备注这是备注',
     }
 ]
 </script>
 
 <VPTeamPage>
   <VPTeamPageTitle>
-    <template #title>呦呦的后花园成员</template>
-    <template #lead>可以自由修改描述</template>
+    <template #title>这是标题</template>
+    <template #lead>这是头行</template>
   </VPTeamPageTitle>
 <VPTeamPageSection>
     <template #title>管理组</template>
