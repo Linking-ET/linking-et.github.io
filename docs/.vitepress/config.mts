@@ -7,14 +7,13 @@ import {CustomTexts} from '../config/zh/CustomTexts'
 import {nav as ENNav} from '../config/en/nav'
 import {sidebar as ENSidebar} from '../config/en/sidebar'
 import {CustomTexts as ENCustomTexts} from '../config/en/CustomTexts'
+
 import {
   GitChangelog,
   GitChangelogMarkdownSection,
 } from '@nolebase/vitepress-plugin-git-changelog/vite'
 import imsize from 'markdown-it-imsize'
-
 import UnoCSS from 'unocss/vite'
-import presetWind3 from "@unocss/preset-wind3";
 
 const GA_MEASUREMENT_ID = 'G-4BY6G2RM8N';
 
