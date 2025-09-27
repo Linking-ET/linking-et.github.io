@@ -75,12 +75,12 @@ const coreMembers_owners = [
     links:[]
     },
     {
-    avatar: '/res/avatar/I_am_a_loliking.png',
-    name: '太阳烤',
-    title: '魔法服腐竹',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2016811976&s=640',
+    name: 'weiqi',
+    title: '锌服服主',
     desc: '喵喵喵？',
     links:[
-        {icon: 'bilibili',link: 'https://space.bilibili.com/473233505'}
+        {icon: 'bilibili',link: 'https://space.bilibili.com/108415888'}
     ]
     }
 ];

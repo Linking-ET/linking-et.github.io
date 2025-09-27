@@ -23,23 +23,23 @@ hero:
 
 features:
   - title: Kimi的万事屋
-    details: 欢迎光临！
+    details: 服主最怠惰的一集
     link: /docs/kimi/
     linkText: 快点我快点我
   - title: 淡水之域
-    details: 杂鱼淡水喵
+    details: 君子之胶淡如水
     link: /docs/water/
-    linkText: 了解一下
+    linkText: 打一发？
   - title: 叶服
     details: 补药艾草谢谢
     link: /docs/leaf/
-    linkText: 了解一下
-  - title: 蘿蔔服
-    details: 你好喵，欢迎喵
+    linkText: 种个草？
+  - title: 萝服
+    details: 真的不是萝莉的服务器
     link: /docs/carrot/
-    linkText: 了解一下
-  - title: 魔法服
-    details: 史诗级爆炸魔法干坏服务器
-    link: /docs/magic/
-    linkText: 了解一下
+    linkText: 炼一下
+  - title: 锌服
+    details: 史诗级爆炸核爆干坏服务器
+    link: /docs/zincium/
+    linkText: 核爆一下
 ---
