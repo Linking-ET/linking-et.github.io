@@ -33,7 +33,7 @@ features:
   - title: 叶服
     details: 补药艾草谢谢
     link: /docs/leaf/
-    linkText: 种个草？
+    linkText: 草一下（？
   - title: 萝服
     details: 真的不是萝莉的服务器
     link: /docs/carrot/
@@ -41,5 +41,5 @@ features:
   - title: 锌服
     details: 史诗级爆炸核爆干坏服务器
     link: /docs/zincium/
-    linkText: 核爆一下
+    linkText: 爆一爆
 ---
