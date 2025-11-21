@@ -109,7 +109,7 @@ const coreMembers_ops = [
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>核心成员名单</template>
-    <template #lead>除了xc都是懒狗</template>
+    <template #lead> </template>
   </VPTeamPageTitle>
 <VPTeamPageSection>
     <template #title>服主名单</template>
