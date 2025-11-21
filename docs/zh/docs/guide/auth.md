@@ -48,4 +48,4 @@ outline: [2,3]
 
 - 登录完成后会出现一个窗口让你同意用户协议，请**仔细阅读**之后点击**绿色混凝土**同意，如您点击**红色混凝土**拒绝，即视为拒绝游玩该服务器，会将您移出服务器！
 
-![不可重复登录](/res/img/guide/auth/toomuchauth.webp)
+![不可重复登录](/res/img/guide/auth/toomuchauth.webp =500x140)
