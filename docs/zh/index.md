@@ -17,7 +17,7 @@ hero:
     - theme: alt
       text: 游玩教学
       link: /docs/guide/
-    - theme: alt
+    - theme: sponsor
       text: 查看复活赛进程……
       link: https://status.link-et.link
 
