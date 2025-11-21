@@ -13,7 +13,7 @@ import {
 
 const coreMembers_owners = [
     {
-    avatar:'/res/avatar/1749393192-Kimimustbe29.png',
+    avatar:'/res/avatar/1749393192-Kimimustbe29.webp',
     name: 'Kimimaybe29',
     title: 'Kimi的万事屋服主',
     desc: '群组服最大金主<br>神级屎山代码之手<br>欢迎来我的个人网站看看<br>↓',
