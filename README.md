@@ -1,3 +1,3 @@
 # LinKing-ET
 
-[Link-ET](https://www.link-et.link)
+[Linking-ET 万物互联](https://www.link-et.link)
