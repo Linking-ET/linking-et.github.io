@@ -46,22 +46,12 @@ export const sidebar = {
                         ]
                     },
                     {
-                        text: '蘿蔔服',
+                        text: '萝服',
                         items:[
                             { text: '简介', link: '/docs/carrot/' },
                             //{ text: '成员', link: '/docs/carrot/team' },
                         ]
                     },
-<<<<<<< Updated upstream
-                    {
-                        text: '锌服',
-                        items:[
-                            { text: '简介', link: '/docs/zincium/' },
-                            //{ text: '成员', link: '/docs/zincium/team' },
-                        ]
-                    },
-=======
->>>>>>> Stashed changes
                 ]
             },
             {

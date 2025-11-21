@@ -7,9 +7,9 @@ export const nav: DefaultTheme.NavItem[] = [
     { text: '友情链接',
         items:[
             { text: 'MSCPO - Minecraft服务器集体宣传组织', link: 'https://www.mscpo.top/' },
-            { text: 'SWAnetwork - 你的上一个Minecraft服务器', link: 'https://www.swamc.top/' },
-            { text: 'EggMC - 你的这一个Minecraft服务器', link: 'https://eggmc.top/' },
-            { text: 'KlpMC - 你的下一个Minecraft服务器', link: 'https://klpmc.top/' },
+            { text: 'SWA Network', link: 'https://www.swamc.top/' },
+            { text: 'EggMC服务器', link: 'https://eggmc.top/' },
+            { text: 'KlpMC服务器', link: 'https://klpmc.top/' },
         ]
     },
     { text: '了解我们',
@@ -25,8 +25,7 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '乐魂空岛', link: '/docs/kimi/skyland' },
             { text: '淡水之域', link: '/docs/water/' },
             { text: '叶服',link: '/docs/leaf/' },
-            { text: '蘿蔔服',link: '/docs/carrot/' },
-            { text: '锌服',link: '/docs/magic/' }
+            { text: '萝服',link: '/docs/carrot/' },
         ]
     },
     {
