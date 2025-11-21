@@ -73,15 +73,6 @@ const coreMembers_owners = [
     title: '蘿蔔服主',
     desc: '欸？',
     links:[]
-    },
-    {
-    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2016811976&s=640',
-    name: 'weiqi',
-    title: '锌服服主',
-    desc: '喵喵喵？',
-    links:[
-        {icon: 'bilibili',link: 'https://space.bilibili.com/108415888'}
-    ]
     }
 ];
 const coreMembers_ops = [
