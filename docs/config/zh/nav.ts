@@ -10,6 +10,7 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: 'SWA Network', link: 'https://www.swamc.top/' },
             { text: 'EggMC服务器', link: 'https://eggmc.top/' },
             { text: 'KlpMC服务器', link: 'https://klpmc.top/' },
+            { text: 'TOC世界之巅「团队」', link: 'https://www.mminecraft.cn/' },
         ]
     },
     { text: '了解我们',
