@@ -80,7 +80,7 @@ outline: [2,3]
 > 有距离限制，最多传送100格（话说我们登录大厅有那么大喵？）<br>
 > 使用一次冷却5秒<br>
 
-![传送弓使用](/res/img/guide/hub/tpbowluse.webp)
+![传送弓使用](/res/img/guide/hub/tpbowluse.gif)
 
 ### 玩家显示开关
 
