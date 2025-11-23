@@ -4,6 +4,7 @@ import DefaultTheme from 'vitepress/theme'
 import {computed, nextTick, provide} from 'vue'
 import HomePage from "./HomePage.vue";
 import Footer from "./Footer.vue";
+import FooterEN from "./FooterEN.vue";
 
 const { isDark,frontmatter } = useData()
 
