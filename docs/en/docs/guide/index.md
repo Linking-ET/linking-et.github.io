@@ -2,7 +2,7 @@
 layout: doc
 outline: [2,3]
 ---
-# Enter Server
+# Join Server
 
 ## 1. First time?
 LinKing-ET offered 3 kinds of auth methods:
