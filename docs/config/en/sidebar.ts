@@ -14,7 +14,7 @@ export const sidebar = {
                     { text: 'Auth / Login', link: '/en/docs/guide/auth' },
                     { text: 'Download Modpacks', link: '/en/docs/guide/modpack' },
                     { text: 'In the Hub', link: '/en/docs/guide/hub' },
-                    { text: 'Render Skins', link: '/en/docs/guide/skin' },
+                    { text: 'Display Skins', link: '/en/docs/guide/skin' },
                     { text: 'FAQs', link: '/en/docs/guide/faq' },
                     { text: 'Be Our Sponsor', link: '/en/docs/guide/donate' },
                 ]

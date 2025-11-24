@@ -3,49 +3,50 @@ layout: doc
 outline: [2,3]
 ---
 
-# 注册/登录教程
+# Auth / Login
 
-## 基岩版
+## Bedrock Edition
 
-### 按照提示输入密码
+### Enter password as prompted
 
-### 绑定Java正版
+### Bind Java Premium Account
 
-## Java正版
+## Java Premium Account
 
-> [!tip]非常推荐!
+> [!tip] Highly recommended!
 
-- 初次进入服务器后会自动注册，密码会显示在聊天里
+- Automatically registers upon first joining the server. The password will be displayed in the chat.
 
-- 初次登录需要你输入一次密码，以**加深记忆**，之后有些服务是需要密码的，即使你拥有正版账号也请牢记系统给你派发的密码！
+- First login requires you to enter the password once to **help memorize it**. Some services later will require this password, so even if you have a premium account, please remember the system-assigned password!
 
-- 再次登录会自动登录，不需要做任何事即可进入服务器，而且服务器会核实你的登录密钥保证那是你的正版账户，盗号风险直线下降
+- Subsequent logins will be automatic. No action is needed to enter the server, and the server verifies your login session key to ensure it's your premium account, significantly reducing the risk of account theft.
 
-## Java离线
+## Java Offline Account
 
-- 进入服务器，眼前一片漆黑，聊天框中会出现使用/reg <密码> <密码or邮箱>注册的提示
+- Join the server. The screen will be black, and a prompt will appear in the chat box to use `/reg <password> <password or email>` to register.
 
-- 请不要尝试走动，在未验证账户安全前我们不允许玩家进行任何非验证操作
+- Please do not attempt to move. Before verifying account security, we do not allow players to perform any non-verification actions.
 
-- 想一个密码出来，改密码至少要8位，且要足够复杂，包含大写字母、小写字母、数字和下划线，还可以包括特殊符号等。
+- Think of a password. The password must be at least 8 characters long, sufficiently complex, containing uppercase letters, lowercase letters, numbers, and underscores. Special symbols are also allowed.
 
-> [!caution]确保你能记住这个密码而且这个密码不容易被识破！
+> [!caution] Ensure you can remember this password and that it's STRONG!
 
-- 将你想到的密码按提示的格式输入聊天框
+- Enter the password you thought of into the chat box in the format indicated by the prompt.
 
-> [!tip]举个例子（不要照抄！）
-> 我的账户名叫111，我的邮箱是 sample@LET.com，我想到了一个符合条件的绝佳密码："SamPle_PSd_!+123"，如果我想注册，我就得输入："/reg Sample_PSD_!+123 Sample_PSD!+123" 或者 "/reg Sample_PSD_!123 sample@LET.com"
+> [!tip] For example (Do not copy!)
+> My account name is 111, my email is sample@LET.com, and I thought of a perfect qualifying password: "SamPle_PSd_!+123". If I want to register, I need to enter: "/reg Sample_PSD_!+123 Sample_PSD!+123" or "/reg Sample_PSD_!123 sample@LET.com"
 
-- 当你注册后，就能游玩了，再次登录时需要你输密码，别忘了你的密码！
+- After registering, you can play. You will need to enter the password when logging in again. Don't forget your password!
 
-> [!caution]
-> 如果你忘了你的密码，请立即联系管理员！
+> [!caution] WARNING ! ! !
+> If you forget your password, please contact an admin immediately!
 
-## 注意事项
+## Cautions
 
-> [!caution]严重警告
-> 不可重复登录超过三个账户
+> [!caution] WARNING ! ! !
+> Do not log in with more than three accounts repeatedly.
 
-- 登录完成后会出现一个窗口让你同意用户协议，请**仔细阅读**之后点击**绿色混凝土**同意，如您点击**红色混凝土**拒绝，即视为拒绝游玩该服务器，会将您移出服务器！
+- After logging in, a window will appear asking you to agree to the user agreement. Please **read carefully** and then click the **green concrete** to agree. If you click the **red concrete** to refuse, you will be considered as refusing to play on the server and will be kicked out!
 
-![不可重复登录](/res/img/guide/auth/toomuchauth.webp =500x140)
+![Do Not Repeatedly Login](/res/img/guide/auth/toomuchauth.webp =500x140)
+
