@@ -15,9 +15,9 @@ export const CustomTexts = {
     },
     notFound: {
         title: 'PAGE NOT FOUND',
-        quote: 'Better to look back, lost player',
+        quote: 'Better look back, player',
         linkLabel: 'Back to home page',
-        linkText: 'Bring me Home'
+        linkText: 'Take me Home'
     },
     editLink: {
         pattern: 'https://github.com/LinKing-ET/linking-et.github.io/edit/main/docs/:path',

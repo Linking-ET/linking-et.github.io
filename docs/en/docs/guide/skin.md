@@ -3,53 +3,53 @@ layout: doc
 outline: [2,3]
 ---
 
-# 显示皮肤
+# Display Skins
 
-## 离线皮肤
+## Offline Skins
 
-> [!warning]启动器内置的皮肤管理器多人模式不生效！
-> 启动器显示皮肤的原理是：修改本地资源文件，将默认皮肤换成你自己设定的皮肤
-> 在这个情况下设定的皮肤仅你自己可见！服务端无权进行管理
-> 在此情况下你也可能会见到部分未设置皮肤的玩家和npc与你同款皮肤
->此属于正常现象，如果您想要多人可见您的皮肤，请往下看
+> [!warning] The skin manager built into the launcher does not work in multiplayer mode!
+> The principle of the launcher displaying skins is: modifying local resource files to replace the default skin with your own set skin.
+> In this case, the set skin is only visible to yourself! The server has no authority to manage it.
+> In this situation, you might also see some players and NPCs who haven't set skins sharing the same skin as you.
+> This is normal. If you want your skin to be visible to others in multiplayer, please read below.
 
-- 注册[SakuraSkin](https://skin.link-et.link/)
+- Register at [SakuraSkin](https://skin.link-et.link/)
 
-- 为了避免恶意滥用，服务器选择了内部皮肤站+邀请码的形式
+- To prevent malicious abuse, the server uses an internal skin station with an invitation code system.
 
-- 邀请码？群内管理员挑一个打一顿就有（）名字起自己离线账号的名字就行
+- Invitation code? Pick an admin in the group and hassle them for one () Use your offline account name when registering.
 
-- 注册之后验证邮箱，就可以开始使用了
+- After registering, verify your email, and then you can start using it.
 
-- 在皮肤库上传自己的皮肤，在角色界面给角色换上
+- Upload your skin in the skin library, and equip it to your character in the character interface.
 
-- 游戏内使用/bskin 使用SakuraSkin的皮肤，无需任何模组，大家都可以看见你的皮肤！
+- In-game, use `/bskin` to use the SakuraSkin skin. No mods are needed, everyone can see your skin!
 
 
-## 基岩皮肤
+## Bedrock Skins
 
-well，知识盲区了
+Well, that's out of my knowledge.
 
-## YSM模型
+## YSM Models
 
-- 装载yes steve model模组，进入服务器
+- Install the [Yes Steve Model](https://modrinth.com/mod/yes-steve-model) mod and enter the server.
 
-- 耐心等待一段时间，直到打开模型页面模型都正常
+- Wait patiently for a while until the model page opens and all models appear normal.
 
-- 如果遇到模型全黑，说明缓存出了问题，删掉缓存重新进服可以解决
+- If all models appear black, there's a cache issue. Delete the cache and rejoin the server to fix it.
 
-- 大部分模型都可以立即换上并显示，部分付费模型需要成为群组服赞助者解锁
+- Most models can be equipped and displayed immediately. Some paid models require provements of you have also purchased this model to unlock.
 
-### YSM模型上传注意事项 <a id="ysm"></a>
+### YSM Model Upload Notes <a id="ysm"></a>
 
-- 可向管理员申请上传自己下载或购买的YSM模型
+- You can apply to admins to upload YSM models you downloaded or purchased.
 
-- 请确保上传的YSM模型**美观**，可接受**搞怪**或**玩梗**模型，但不接受**猎奇**、**让人犯恶心**的模型
+- Ensure the uploaded YSM model is **aesthetically pleasing**. **Funny** or **meme** models are acceptable, but **bizarre** or **nauseating** models are not.
 
-- 如果是免费模型，***请查看模型作者是否允许玩家在服务器中使用，如模型作者未说明，请私信模型作者询问***，在得到肯定回答后上传；如果是付费模型，***也一样***。
+- For free models, ***please check if the model author allows use on servers. If the author hasn't specified, privately message the author to ask***, and upload only after receiving confirmation. For paid models, ***do the same***.
 
-- 免费模型**每位玩家**都可以使用；**付费模型仅供上传者使用**，其他玩家想要使用需要**出示证明自己购买过该模型的相关资料或文件，以证明自己具备使用权**，例如爱发电付款截图（注意打码，不要暴露个人身份）
+- Free models can be used by **every player**. **Paid models are for the uploader's use only**. Other players who want to use a paid model must **provide proof of purchase or relevant documents/files proving they have the right to use it**, e.g., a payment screenshot from Afdian (please blur sensitive personal information).
 
-> [!caution] 该板块的最终解释权归LinKing-ET所有
+> [!caution] The final interpretation of this section belongs to LinKing-ET.
 
 

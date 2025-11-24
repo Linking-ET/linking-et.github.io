@@ -3,144 +3,145 @@ layout: doc
 outline: [2,3]
 ---
 
-# 进入大厅
+# In the Hub
 
-- 当你完成注册，进入大厅，你便进入了正式游玩阶段。但是一些人看见大厅里的东西还是蒙的：啊？我为什么没有直接进生存服？就让我们一一介绍你眼前的东西吧。
+- After completing registration and entering the lobby, you enter the official gameplay phase. But some people are confused by what they see in the lobby: Huh? Why didn't I go directly to the survival server? Let's introduce what you see step by step.
 
-## 转服NPC
+## Server Transfer NPCs
 
-- 当你完成登录，转头看向身后，你会看见五个NPC
+- After logging in, turn around and look behind you. You will see five NPCs.
 
-![NPC](/res/img/guide/hub/hubpreview.webp =500x360)
+![NPCs](/res/img/guide/hub/hubpreview.webp =500x360)
 
-> [!tip]从左到右：<br>
-> 前往小游戏服<br>
-> 前往[淡水之域](/docs/water/)<br>
-> 前往[Kimi的万事屋](/docs/kimi/)<br>
-> 前往[叶服](/docs/leaf/)<br>
-> 前往[呦呦的后花园](/docs/carrot/)
+> [!tip] From left to right: <br>
+> Go to Minigame Server<br>
+> Go to [Freshwater's Region](/docs/water/)<br>
+> Go to [Kimi's Wonderland](/docs/kimi/)<br>
+> Go to [WaterCarrot](/docs/carrot/)<br>
+> Go to [Leaf Page](/docs/leaf/)
 
-### 别点错了！
 
-![切换服务器](/res/img/guide/hub/switchservernpc.webp =500x360)
+### Don't click the wrong one!
 
-### NPC详情
+![Switch Server](/res/img/guide/hub/switchservernpc.webp =500x360)
 
-::: details 点击展开
-| NPC        |      皮肤来源      | 截图 |
+### NPC Details
+
+::: details Click to expand
+| NPC        |      Skin Source     | Screenshot |
 | ------------- | :-----------: | ----: |
-| 小游戏区服      | 皮肤提供者: XC小陈<br>正版名: \_XIAOCHEN\_ | ![小游戏区服](/res/img/guide/hub/npcxc.webp =500x360) |
-|   前往水服  |  皮肤提供者: 淡水<br>正版名: freshwater111     |  ![前往水服](/res/img/guide/hub/npcwater.webp =500x360)  |
-| 前往主服 |    皮肤提供者: Kimimaybe29<br>正版名: Kimimightbe29      |  ![前往主服](/res/img/guide/hub/npckimi.webp =500x360)   |
-| 前往萝服 | 皮肤提供者: 水萝卜<br>正版: WaterCarrot1145 | ![前往萝服](/res/img/guide/hub/npcluo.webp =500x360) |
-| 前往叶服 | 皮肤提供者: 柠言千枫<br>正版: 暂无 | ![前往叶服](/res/img/guide/hub/npcye.webp =500x360)|
+| Minigame Server      | Skin Provider: XC小陈<br>Premium Name: \_XIAOCHEN\_ | ![Minigame Server](/res/img/guide/hub/npcxc.webp =500x360) |
+|   Go to Water Server  |  Skin Provider: 淡水<br>Premium Name: freshwater111     |  ![Go to Freshwater's Region](/res/img/guide/hub/npcwater.webp =500x360)  |
+| Go to Kimi's Wonderland |    Skin Provider: Kimimaybe29<br>Premium Name: Kimimightbe29      |  ![Go to Main Server](/res/img/guide/hub/npckimi.webp =500x360)   |
+| Go to WaterCarrot | Skin Provider: 水萝卜<br>Premium: WaterCarrot1145 | ![Go to Carrot Server](/res/img/guide/hub/npcluo.webp =500x360) |
+| Go to Leaf Page | Skin Provider: 柠言千枫<br>Premium: None yet | ![Go to Leaf Server](/res/img/guide/hub/npcye.webp =500x360)|
 
 :::
 
 
-## 物品栏
+## Inventory
 
-- 每次进入大厅，背包都会被强制重置。这是物品栏的内容：
+- Every time you enter the lobby, your inventory is forcibly reset. Here are the contents of the inventory:
 
-![物品栏内容](/res/img/guide/hub/invtab.webp =500x360)
+![Inventory Contents](/res/img/guide/hub/invtab.webp =500x360)
 
-> [!caution] 每项都有作用，别乱丢
+> [!caution] Each item has a purpose, don't throw them away randomly.
 
-### 服务器选择器
+### Server Selector
 
-- 这是一颗下界之星样式的选择器，长这样
-- 同时也是默认手持物品，玩家进服时自动拿着它。
+- This is a selector shaped like a Nether Star. It looks like this.
+- It's also the default held item, automatically given to players when they join the server.
 
-![服务器选择器](/res/img/guide/hub/serverchooser.webp =500x360)
+![Server Selector](/res/img/guide/hub/serverchooser.webp =500x360)
 
-> [!note]使用方法
-> 手持选择器，点按右键能打开服务器选择页面
+> [!note] How to use
+> Hold the selector and right-click to open the server selection page.
 
-![服务器选择页面](/res/img/guide/hub/serverchoose.webp =500x360)
+![Server Selection Page](/res/img/guide/hub/serverchoose.webp =500x360)
 
 
-::: info 中间一行，从左到右：<br>
-| 对应物品      |      前往服务器     |
+::: info Middle row, from left to right: <br>
+| Corresponding Item      |      Go to Server     |
 | ------------- | :-----------: | 
-| 时钟      | 前往小游戏服                      |
-| 水瓶      |  前往[淡水之域](/docs/water/) | 
-| 附魔台    |  前往[Kimi的万事屋](/docs/kimi/)     |
-| 红石粉    | 前往[叶服](/docs/leaf/)             |
-| 热带鱼    | 前往[呦呦的后花园](/docs/carrot/)   |
+| Clock      | Go to Minigame Server                      |
+| Water Bottle      |  Go to [Freshwater Domain](/docs/water/) | 
+| Enchanting Table    |  Go to [Kimi's General Store](/docs/kimi/)     |
+| Redstone Dust    | Go to [Leaf Server](/docs/leaf/)             |
+| Tropical Fish    | Go to [YouYou's Back Garden](/docs/carrot/)   |
 :::
 
-### 传送弓
+### Teleport Bow
 
-- 一把带有无限附魔的弓
+- A bow with the Infinity enchantment.
 
-![传送弓](/res/img/guide/hub/tpbowl.webp =500x360)
+![Teleport Bow](/res/img/guide/hub/tpbowl.webp =500x360)
 
-> [!note]使用方法
-> 作用正如其名，会将使用者传送到箭矢的落点<br>
-> 有距离限制，最多传送100格（话说我们登录大厅有那么大喵？）<br>
-> 使用一次冷却5秒<br>
+> [!note] How to use
+> As the name suggests, it teleports the user to the arrow's landing point.<br>
+> Has a distance limit, maximum teleport distance is 100 blocks (Wait, is our lobby that big?).<br>
+> 5-second cooldown after each use.<br>
 
-![传送弓使用](/res/img/guide/hub/tpbowluse.gif)
+![Teleport Bow Usage](/res/img/guide/hub/tpbowluse.gif)
 
-### 玩家显示开关
+### Player Visibility Toggle
 
-- 一块绿色染料
+- A piece of green dye.
 
-![玩家显示](/res/img/guide/hub/playerswitch.webp =500x360)
+![Player Visibility](/res/img/guide/hub/playerswitch.webp =500x360)
 
-> [!note]使用方法
-> 点一次切换为灰色染料，同时周边玩家全部“隐身”(NPC不算在内，因为他们不是玩家)<br>
-> 再点一次切换回来，切换冷却5秒
+> [!note] How to use
+> Click once to switch to gray dye, simultaneously making all nearby players "invisible" (NPCs don't count as they aren't players).<br>
+> Click again to switch back. Toggle cooldown is 5 seconds.
 
-![玩家显示切换](/res/img/guide/hub/playerswitchuse.webp =500x360)
+![Player Visibility Toggle](/res/img/guide/hub/playerswitchuse.webp =500x360)
 
-### pvp开关
+### PvP Toggle
 
-- 一把钻石剑
+- A diamond sword.
 
-![pvp开关](/res/img/guide/hub/pvpswitch.webp =500x360 =500x360)
+![PvP Toggle](/res/img/guide/hub/pvpswitch.webp =500x360 =500x360)
 
-> [!NOTE]使用方法
-> 手执五秒会切换进pvp模式<br>
-> 背包中包含: 一把火焰附加钻石剑，全套钻石白甲，16个金苹果，一把无限弓，一根箭，以及一个关闭pvp模式的开关（也是钻石剑）
+> [!NOTE] How to use
+> Hold for five seconds to switch to PvP mode.<br>
+> Inventory contains: A Fire Aspect diamond sword, a full set of diamond armor (white), 16 golden apples, an Infinity bow, one arrow, and a toggle to turn off PvP mode (also a diamond sword).
 
-![pvp开关使用](/res/img/guide/hub/pvpswitchuse.webp =500x360)
+![PvP Toggle Usage](/res/img/guide/hub/pvpswitchuse.webp =500x360)
 
-> 是的，大厅还有娱乐功能（但我们不建议在大厅进行pvp，延迟较高，可以选择对应的小游戏区服）
+> Yes, the lobby also has entertainment features (but we don't recommend PvP in the lobby due to high latency; you can choose the corresponding minigame server instead).
 
-### 公告书
+### Announcement Book
 
-> [!info]一本书
-> 手持右键使用会在聊天栏里显示公告
+> [!info] A book
+> Hold and right-click to display announcements in the chat.
 
-![公告书](/res/img/guide/hub/serverbook.webp =500x360)
+![Announcement Book](/res/img/guide/hub/serverbook.webp =500x360)
 
-![服务器详情](/res/img/guide/hub/serverdetial.webp =500x360)
+![Server Details](/res/img/guide/hub/serverdetial.webp =500x360)
 
-## 彩蛋与小游戏
+## Easter Eggs & Minigames
 
-- 进服后往前上方看，会看见一位npc
+- After joining the server, look up and forward. You will see an NPC.
 
-![跑酷NPC](/res/img/guide/hub/npcparkour.webp =500x360 =640x360)
+![Parkour NPC](/res/img/guide/hub/npcparkour.webp =500x360)
 
-> [!info]NPC皮肤信息
-> 皮肤提供者：ec <br>
-> 正版名：Exploded_Creeper
+> [!info] NPC Skin Info
+> Skin Provider: EC <br>
+> Premium Name: Exploded_Creeper
 
-> [!tip]跑酷！
-> 右键npc，会被传送到大厅上方的一个小跑酷<br>
-> 跑酷相当有难度
+> [!tip] Parkour!
+> Right-click the NPC to be teleported to a small parkour course above the lobby.<br>
+> The parkour is quite challenging.
 
-> [!warning]奖励关
-> 谁能通过这段跑酷并提供录屏证明自己没作弊<br>
-> 能获得奖励哦
+> [!warning] Reward Level
+> Anyone who can complete this parkour and provide screen recording proof of no cheating<br>
+> can receive a reward.
 
-![跑酷开始](/res/img/guide/hub/parkourstart.webp =500x360 =640x360)
+![Parkour Start](/res/img/guide/hub/parkourstart.webp =500x360)
 
-![跑酷结尾](/res/img/guide/hub/parkourend.webp =500x360 =640x360)
+![Parkour End](/res/img/guide/hub/parkourend.webp =500x360)
 
 ### ???
 - ???
-- 是一个非常????的????
-- 右键????后会????
-- 欢迎各位自己去发现
+- Is a very ????????
+- Right-clicking ???????? will ????????
+- Welcome everyone to discover it for themselves.

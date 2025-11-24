@@ -17,8 +17,9 @@ outline: [2,3]
 > 前往小游戏服<br>
 > 前往[淡水之域](/docs/water/)<br>
 > 前往[Kimi的万事屋](/docs/kimi/)<br>
-> 前往[叶服](/docs/leaf/)<br>
-> 前往[呦呦的后花园](/docs/carrot/)
+> 前往[萝服](/docs/carrot/)<br>
+> 前往[叶服](/docs/leaf/)
+
 
 ### 别点错了！
 
@@ -121,10 +122,10 @@ outline: [2,3]
 
 - 进服后往前上方看，会看见一位npc
 
-![跑酷NPC](/res/img/guide/hub/npcparkour.webp =500x360 =640x360)
+![跑酷NPC](/res/img/guide/hub/npcparkour.webp =500x360)
 
 > [!info]NPC皮肤信息
-> 皮肤提供者：ec <br>
+> 皮肤提供者：EC <br>
 > 正版名：Exploded_Creeper
 
 > [!tip]跑酷！
@@ -135,9 +136,9 @@ outline: [2,3]
 > 谁能通过这段跑酷并提供录屏证明自己没作弊<br>
 > 能获得奖励哦
 
-![跑酷开始](/res/img/guide/hub/parkourstart.webp =500x360 =640x360)
+![跑酷开始](/res/img/guide/hub/parkourstart.webp =500x360)
 
-![跑酷结尾](/res/img/guide/hub/parkourend.webp =500x360 =640x360)
+![跑酷结尾](/res/img/guide/hub/parkourend.webp =500x360)
 
 ### ???
 - ???

@@ -1,54 +1,54 @@
-# 赞助支持我们
+# Be Our Sponsor
 
-- LinKing-ET正在亏本运行！成员们正在为爱发电，如果可以，请施舍一点吧（求求了）（哪怕只是请顿肯德基也好啊）
+- LinKing-ET is operating at a loss! Members are running it on passion. If possible, please spare a little (we beg you) (even just for a KFC meal would be great).
 
-- 成为赞助者能拿到一些权益，注意这不是Pay to Win，只是游戏中可有可无的变量
+- Becoming a sponsor grants some perks. Note this is not Pay to Win, just minor, non-essential variables in the game.
 
-- 赞助后请在群里发出付款截图（注意不要泄露个人隐私），管理可帮你开启权益
+- After donating, please post the payment screenshot in the group chat (be careful not to leak personal privacy), and an admin can activate your perks.
 
 
-## 赞助者权益
+## Sponsor Perks
 
-### 全局权益
+### Global Perks
 
-- 可创建语音群组
+- Can create voicechat groups.
 
-- 获得金色的“赞助者”称号（可显示在tab里）
+- Receive a golden "Sponsor" title (can be displayed in the tab list).
 
-### 子服权益
+### SubRegions Perks
 
-- 以下内容还在实现（苦笑）
+- The following content is still being implemented (＞﹏＜)
 
-:::details Kimi的万事屋
+:::details Kimi's Wonderland
 
-- 更多的家数量
-
-:::
-
-:::details 乐魂空岛
-
-- 更大的领地范围
+- More home locations.
 
 :::
 
-:::details 叶服
+:::details Ghast Skylands
 
-- 棍母
-
-:::
-
-:::details 淡水之域
-
-- 棍母
+- Larger claim areas.
 
 :::
 
-:::details 蘿蔔服
+:::details Leaf Page
 
-- 棍母
+- Diorite.
 
 :::
 
-## 赞助渠道
+:::details Freshwater's Region
+
+- Diorite.
+
+:::
+
+:::details WaterCarrot
+
+- Diorite.
+
+:::
+
+## Donation Channels
 
 <Donate />
