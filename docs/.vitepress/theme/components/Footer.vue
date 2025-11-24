@@ -1,5 +1,5 @@
 <template>
-  <footer class="vp-footer" v-if="isHomePage">
+  <footer class="vp-footer">
     <div class="vp-footer-container">
       <p class="vp-footer-copyright">
         Copyright &copy; {{ currentYear }} LinKing-ET.
@@ -12,30 +12,12 @@
       </p>
     </div>
   </footer>
-    <footer class="vp-footer" v-if="isEnHomePage">
-        <div class="vp-footer-container">
-            <p class="vp-footer-copyright">
-                Copyright &copy; {{ currentYear }} LinKing-ET.
-            </p>
-            <p class="vp-footer-copyright">
-                "Minecraft" is the trademark of Microsoft Corporation of the United States. This website has no affiliation with Microsoft Corporation.
-            </p>
-            <p class="vp-footer-powered-by">
-                Powered by <a href="https://vitepress.dev/" target="_blank" rel="noopener">VitePress</a>.
-            </p>
-        </div>
-    </footer>
 </template>
 
 <script setup>
-import {computed, ref} from 'vue';
-import {useRoute} from "vitepress";
+import { ref } from 'vue';
 
 const currentYear = ref(new Date().getFullYear());
-
-const route = useRoute()
-const isHomePage = computed(() => route.path === '/');
-const isEnHomePage = computed(() => route.path === '/en/');
 </script>
 
 <style scoped>
