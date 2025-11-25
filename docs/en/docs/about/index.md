@@ -3,44 +3,44 @@ layout: doc
 outline: [2,3]
 ---
 
-# 我们是谁？
+# Who Are We?
 
-## 前言
-如果您游玩我们的服务器，即表示您同意[《Minecraft EULA》](https://www.minecraft.net/zh-hans/eula)、[《Microsoft 服务协议》](https://www.microsoft.com/servicesagreement)，因此请仔细阅读。如果您是未成年人，并且难以理解这些条款和条件，请让您的父母或法定监护人向您解释，尤其是因为您的父母或法定监护人负责为您创建 Microsoft 帐户并代表您接受所有条款。请记住不定时检查此处和[《Minecraft EULA》](https://www.minecraft.net/zh-hans/eula)、[《Microsoft 服务协议》](https://www.microsoft.com/servicesagreement)， 因为我们及微软可能会更新这些条款和条件，这些条款和条件将在您下次使用我们的服务器时生效。
+## Intro
+If you play on our server, it means you agree to the [《Minecraft EULA》](https://www.minecraft.net/en-us/eula) and [《Microsoft Service Agreement》](https://www.microsoft.com/en-us/servicesagreement), so please read them carefully. If you are a minor and have difficulty understanding these terms and conditions, please have your parents or legal guardians explain them to you, especially since your parents or legal guardians are responsible for creating your Microsoft account and accepting all terms on your behalf. Please remember to check here and the [《Minecraft EULA》](https://www.minecraft.net/en-us/eula), [《Microsoft Service Agreement》](https://www.microsoft.com/en-us/servicesagreement) from time to time, as we and Microsoft may update these terms and conditions, which will take effect the next time you use our server.
 
-## Linking-ET的起源
-- Linking-ET组建于 **2025.3.22** ，正式立项为 **2025.4.16**
-- 初始创始人只有 **Kimimaybe29** *（主服服主，以下简称kimi）* **xc小陈** *（联络人，以下简称XC）* **和柠言千枫** *（从服服主） | ps:那时候还没有叶服的概念）* 
-- **淡水** *(水服服主)* 在随后几天内加入，团队开始重新讨论发展方向
-- 三位服主均无偿提供服务器硬件资源，其中 **kimi** 、 **淡水** 二位提供并输送大量各个技术栈人才到服务器内，为日后技术质询夯实基础
-- 截至编辑时，**中心 / 代理** 服务器主要供费均由 **kimi** 个人 **无偿承担**
-- 以此为基础，**XC** 搭建了一套 ***分布式、跨平台、自担保、高扩展*** 的异地集群网络及管理模式
-- 该系统为各个服主提供了良好的协作与管理环境，也为在 **极其恶劣的网络环境** 下意图建设服务器的服主提供良好条件，同时支持了主流 ***Windows、Linux、MacOS*** 的 ***x86_64*** 和 ***arm64*** 六大平台
+## The Origin of Linking-ET
+- Linking-ET was formed on **2025.3.22** and officially established as a project on **2025.4.16**.
+- The initial founders were only **Kimimaybe29** *（Owner of the Kimi's Wonderland, hereinafter referred to as kimi）*, **XCHEN446** *（Liaison, hereinafter referred to as XC）*, and **柠言千枫** *（Sub-server Owner | ps: The concept of the leaf Page didn't exist then）*.
+- **FreshWater** *(Owner of the Freshwater's region)* joined within the next few days, and the team began re-evaluating the development direction.
+- All three server owners provided server hardware resources free of charge. Among them, **kimi** and **FreshWater** provided and recruited numerous talents across various technical stacks into the server, laying a solid foundation for future technical consultation.
+- As of the time of editing, the main operating costs of the **central / proxy** server are all borne by **Kimi** personally and free of charge.
+- Based on this, **XC** built a set of ***distributed, cross-platform, self-guaranteed, highly scalable*** remote cluster network and management model.
+- This system provides a good collaborative and management environment for each server owner, offers favorable conditions for owners intending to build servers in **extremely poor network environments**, and supports six major platforms: ***Windows, Linux, MacOS*** on both ***x86_64*** and ***arm64*** architectures.
 
 |  ——   | Windows | Linux | Mac  |
 |:-----:|:-------:|:-----:|:----:|
-| AMD64 |    √    |   √   | 理论支持 |
-| ARM64 |  理论支持   |   √   |  √   |
+| AMD64 |    √    |   √   | Theoretically<br> Supported |
+| ARM64 |  Theoretically<br> Supported   |   √   |  √   |
 
 
-- 由 **kimi** 提供的前端技术人才 **Lorien Yang** *（前端核心人员，以下简称樱站）| ps:前为服务器使用的皮肤站验证服务站长）* 提出服务器备案，建立官网，购买域名等等事项， **XC** 与 **kimi** 进行技术与资金上的辅佐，为服务器以及该站点的 ***形象*** 与 ***宣传*** 做出大量贡献
-- **XC** 以此为基础进行了额外服务的搭建，例如 ***[在线地图](https://map.link-et.link)，[组织云盘](https://pan.link-et.link)*** 等，**Linking-ET** 项目逐渐完善，进入稳步发展
+- **Lorien Yang** *(Core front-end personnel, hereinafter referred to as Sakura Station) | ps: Previously the station master for the skin site verification service used by the server)* , a front-end technical talent provided by **kimi**, proposed server filing, establishing an official website, purchasing domains, etc. **XC** and **kimi** provided technical and financial assistance, making significant contributions to the ***image*** and ***promotion*** of the server and this site.
+- Based on this, **XC** built additional services, such as ***[Online Map](https://map.link-et.link), [Organization Cloud Drive](https://pan.link-et.link)***, etc. The **Linking-ET** project gradually improved and entered a phase of steady development.
 
-## Linking-ET的目标
-- 打造一个优质 ***加盟式*** 的 **公益** 群组服，给各位**服主**提供**多样的选择**，同时给各位**玩家**优良的**环境与氛围**
-- 意图以 ***同址异服*** 的方式使玩家长期留存在服务器内，使玩家既不至于***单服玩法单一***而***食之无味***，也不至于因***服务器人数过多或少***而***弃之可惜***
-- 玩家有更多新玩法，更愿意**留在服务器内**；服主可以留住玩家，更愿意**提高自身产能**
-- 如有可能，我们希望有朝一日能够实现 ***跨服的间接普通货币交易*** ，使各个服务器间的联系更为紧密，玩家们更愿意在群组内进行***流动游玩***
+## The Goal of Linking-ET
+- To create a high-quality ***franchise-style*** **non-profit** group server, providing various **choices** for **server owners** and offering a superior **environment and atmosphere** for **players**.
+- Intends to use the ***same location, different servers*** method to keep players long-term retained within the server cluster, preventing players from finding ***single-server gameplay monotonous*** and thus ***losing interest***, or abandoning servers due to ***too many or too few players*** making it ***not worthwhile to leave but not fun to stay***.
+- Players have more new gameplay options and are more willing to **stay in the server cluster**; server owners can retain players and are more willing to **increase their own productivity**.
+- If possible, we hope to one day achieve ***indirect ordinary currency transactions across servers***, making the connections between various servers tighter and encouraging players to ***flow and play*** within the group.
 
-## 注意事项 *#玩家*
-> [!caution]以下所有注意事项为全服通用
-- 服务器全服支持[simple voice chat语音聊天](https://www.mcmod.cn/class/3693.html)，但不支持跨服聊天，使用中遇到情况请及时报告管理
-- 服务器全服支持[YSM是，史蒂夫模型](https://www.mcmod.cn/class/8616.html)，如果你要上传你的模型请联系群内管理审核，[模型注意事项](/docs/guide/skin#ysm模型上传注意事项)
-- 服务器半支持[Distant Horizons遥远地平线](https://www.mcmod.cn/class/5009.html)模组，有条件的玩家请自行安装该模组以获得更好的视距体验
-- 服务器半支持[Emotecraft表情工艺](https://www.mcmod.cn/class/3507.html)模组，有条件的玩家请自行安装该模组以获得更好的表情动作体验，如果有更好的动作想法也可以联系管理
-> [!tip]以上模组皆为客户端可选，即使未安装也不影响进入服务器，但我们仍然推荐安装这些模组！
-- 服务器拒绝作弊，特别是对他人游戏体验造成影响的，每位玩家都可以到大厅/report举报玩家，但请注意，不要恶意举报，否则会遭到更加严厉的处罚
+## Cautions *#Players*
+> [!caution]All the following precautions apply server-wide.
+- All servers support [Simple Voice Chat mod](https://www.mcmod.cn/class/3693.html), but cross-server chat is not supported. Report any issues encountered during use to admins promptly.
+- All servers support [Yes Steve Model (YSM) mod](https://www.mcmod.cn/class/8616.html). If you want to upload your model, please contact admins in the group for review. [Model Precautions](../guide/skin#ysm)
+- Servers partially support the [Distant Horizons mod](https://www.mcmod.cn/class/5009.html). Players with the capability are encouraged to install this mod themselves for a better view distance experience.
+- Servers partially support the [Emotecraft mod](https://www.mcmod.cn/class/3507.html). Players with the capability are encouraged to install this mod themselves for better emote/action experiences. If you have ideas for better actions, you can also contact admins.
+> [!tip]The above mods are all optional client-side mods. Not installing them does not affect joining the server, but we still recommend installing them!
+- The server prohibits cheating, especially that which affects others' gameplay experience. Every player can use /report in the lobby to report players, but please do not make false reports, otherwise, you may face stricter penalties.
 
 
-## 注意事项 *#服主*
-- 有意向加入的服主们，请前往[服主注意事项](/docs/about/notice.md)进行查看
+## Cautions *#Server Owners*
+- Prospective server owners interested in joining, please go to [Server Owner Precautions](../about/notice.md) to check.

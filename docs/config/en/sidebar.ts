@@ -20,7 +20,7 @@ export const sidebar = {
                 ]
             },
             {
-                text: 'Subregions' ,
+                text: 'SubRegions' ,
                 items: [
                     {
                         text: "Kimi's Wonderland",

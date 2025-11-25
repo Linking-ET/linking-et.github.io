@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: "About"
-      link: /en/docs/info
+      link: /en/docs/about
     - theme: alt
       text: "Guide"
       link: /en/docs/guide
