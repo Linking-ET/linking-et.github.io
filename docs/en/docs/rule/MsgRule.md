@@ -3,29 +3,32 @@ layout: doc
 outline: [2,3]
 ---
 
-# 服务器安全发言准则
+# Safe Communication Guidelines
 
-> [!warning]此准测适用于所有LET相关自由发言论坛及群聊
-> ***特别是QQ群***<br>
-> 创造文明上网环境人人有责
+> [!warning]These guidelines apply to all LET-related forums and group chats with free speech
+> ***Especially QQ groups***<br>
+> Everyone shares responsibility for creating a civilized online environment
 
-:::danger 准则内容
-- 色
+:::danger Guideline Content
+- Sexual Content
   
-禁止发布，传播任何带有色情内容的软件，压缩包，网站，言语，链接，图片以及视频
-- 言
+Prohibits publishing or disseminating any software, compressed files, websites, language, links, images, or videos containing pornographic content
+
+tips: sexual content can be only sent in discord server (the **R18/G** Thread of Text Channel **#综合**)
+
+- Inappropriate Language
   
-如恶意骂人，阴阳怪气，挑衅，侮辱，骚乱，侮辱他人，性暗示，贴标签
-- 德
+Includes malicious insults, sarcastic remarks, provocation, harassment, disruption, personal attacks, sexual innuendo, labeling
+- Ethical Behavior
   
-如歧视他人，道德绑架，开户，刷屏，未经允许打广告
-- 政
+Covers discrimination against others, moral coercion, doxxing, spamming, unauthorized advertising
+- Political Discussion
   
-谈论政治敏感
-- 假
+Discussion of politically sensitive topics
+- Misinformation
   
-恶意欺骗他人，夸大事实，假冒伪劣事实，以不符合逻辑攻击他人，不了解实际情况发布有引导性的言论
+Malicious deception of others, exaggeration of facts, spreading false information, illogical personal attacks, publishing misleading statements without understanding the actual situation
 :::
 
-> [!warning]以上内容违规者，视程度，禁言惩罚1小时至7天。
-> 三次违规后，将启用群内机器人禁言功能，定向撤回当事人发送的图片、聊天记录等。
+> [!warning]Violators of the above content will face muted penalties ranging from 1 hour to 7 days, depending on severity.
+> After three violations, the group bot's mute function will be activated, specifically recalling images, chat records, etc. sent by the individual.
