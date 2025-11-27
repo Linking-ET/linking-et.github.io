@@ -42,7 +42,7 @@ const coreMembers_owners = [
     title: '技术主管',
     desc: '群组主技术<br>开服经验较长<br>协调与解决问题较为出色',
     links: [
-        {icon: 'bilibili', link: 'https://i.bilibili.com/621908460' },
+        {icon: 'bilibili', link: 'https://space.bilibili.com/621908460' },
         {icon: 'github', link: 'https://github.com/XChen446'},
         {icon: 'discord', link: 'https://discordapp.com/users/1339518058259152951'},
       

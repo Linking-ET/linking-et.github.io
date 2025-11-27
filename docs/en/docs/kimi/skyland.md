@@ -1,7 +1,8 @@
-# 乐魂空岛
+# Ghast Skylands
 
-## 概述
+## Overview
 
-- 一个玩法衍生服，将空岛生存和乐魂结合起来，玩家可以骑着乐魂游历随机生成的空岛
+- A gameplay derivative server that combines skyblock survival with 乐魂, players can ride 乐魂 to explore randomly generated sky islands
 
-- 还在内测状态，待玩法稳定后公测
+- Still in beta stage, will open after gameplay stabilizes
+[file content end]

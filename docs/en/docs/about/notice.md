@@ -1,17 +1,17 @@
-# 服主们需要注意的一些问题 *#草稿*
+# Some Issues Server Owners Need to Pay Attention To *#Draft*
 
->此页面并不作为我们对各个服主的硬性标准<br>因为前文所提到的，我们实现了对大部分普通跟网络环境的兼容<br>所以这里面的问题仅作参考，无需完整实现<br>如果您有意向加入我们，请直接尝试联系管理组
+>This page does not serve as our rigid standard for each server owner.<br>As mentioned earlier, we have achieved compatibility with most common network environments.<br>Therefore, the issues listed here are for reference only and do not need to be fully implemented.<br>If you are interested in joining us, please try to contact the admin group directly.
 
-- ### 你是否拥有自己的一台完整的机器？（股份问题）
+- ### Do you own a complete machine of your own? (Share/Stock Issue)
 
-- ### 你是否对你现在所拥有的服务器有完整操作权限？（操作权问题）
+- ### Do you have full operational power over the server you currently possess? (Operational Rights Issue)
 
-- ### 你是否拥有至少一个的公网端口或公网ip？亦或是你的nat类型？（网络问题）
+- ### Do you have at least one public port or public IP? Or what is your NAT type? (Network Issue)
 
-- ### 你是否拥有一个完整的管理团队？（管理权/产能问题）
+- ### Do you have a complete management team? (Management Rights / Productivity Issue)
 
-- ### 你的计划开服周期？（稳定性/长期问题）
+- ### What is your planned server opening cycle? (Stability / Long-term Issue)
 
-- ### 你目前的日活？（活跃度/玩家问题）
+- ### What is your current Daily Active Users (DAU)? (Activity / Player Base Issue)
 
 ![以儆效尤](/res/img/yijinxiaoyou.webp)
