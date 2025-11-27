@@ -59,7 +59,7 @@ BV: BV1GJ411x7h7
    - Example: `理想的装饰建材，能存储50mB的流体。被破坏时仍能保留其中的液体。`
 
 #### Detailed Rules
-1. Image aspect ratios in articles should preferably maintain 16:9, and refer to the image parameters in the [In the Hub](/en/docs/guide/hub) article when setting image parameters for other articles.
+1. Image aspect ratios in articles should preferably maintain 16:9, and refer to the image parameters in the [In the Hub](../guide/hub) article when setting image parameters for other articles.
 
 2. Do not overuse H1 and H2 tags as it can make the page bloated
 
