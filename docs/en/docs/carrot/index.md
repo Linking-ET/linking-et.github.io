@@ -1,42 +1,42 @@
-# 🌟 萝服简介
-这是一个基于 **1.21.8 版本** 的 **Leaf端高性能服务器** 🚀。我们以 **ValhallaMMO技能系统** 🌳 为基石，深度融合 **精英 & 血月动态挑战** 🩸，打造了一个动态世界：你变强的同时，世界也将匹配你的战力，对怪物进行相应增强，确保挑战与成长并存 💪。
+# 🌟 WaterVCarrot
+This is a **Leaf-based high-performance server** 🚀 running on **version 1.21.8**. We've built upon the foundation of the **ValhallaMMO skill system** 🌳, deeply integrating **Elite & Blood Moon dynamic challenges** 🩸 to create a dynamic world: as you grow stronger, the world will match your combat power, correspondingly enhancing monsters to ensure challenge and growth coexist 💪.
 
 ---
 
-## 🎯 服务器特色
+## 🎯 Server Features
 
-### 🌳【技能系统 - 构建专属流派】
-- **万物皆可升级** 📈：拥有涵盖采集、战斗、锻造等众多技能种类。
-- **自由组建流派** 🧭：每种技能都拥有独立的技能树 🌲。玩家可自由选择发展方向，构建属于自己的独特打法。技能树提供如附魔上限提高、永久属性增益、掉落物提升、药水增强等多样化的核心增益 ✨。
-
----
-
-### ⚔️【动态征伐 - 为你而来的试炼】
-- **精英随你而强** 🐉：精英怪物的强度与刷新直接挂钩你的技能等级，为你提供一条从初期贯穿至后期的可选成长路线。它们能掉落蕴含更多属性的工具及精英币 💰，用于提升独特的声望系统，带来可观的战力回报。
-- **智能挑战机制** 🤖：系统设有反刷怪机制，检测到异常行为将取消奖励 ❌。推荐组队挑战，系统会根据造成的伤害来源公平分配奖励，确保合作体验。
-- **定期的血月浩劫** 🌕：每五天一次，血月将提升发生世界的全部怪物强度，且怪物刷新率翻倍，全面考验你的生存能力 ⚠️。
+### 🌳【Skill System - Build Your Unique Playstyle】
+- **Everything Can Be Leveled Up** 📈: Features numerous skill categories covering gathering, combat, forging, and more.
+- **Freely Build Playstyles** 🧭: Each skill has its own independent skill tree 🌲. Players can freely choose development directions to build their unique combat styles. Skill trees provide diverse core enhancements ✨ such as increased enchantment limits, permanent attribute bonuses, improved drops, and enhanced potions.
 
 ---
 
-## 🗺️ 世界探索：隐藏机遇的未知之地
-- **扩展的世界** 🌄：更多地形与密集的遗迹，让探索充满未知。
-- **遗迹的独有宝藏** 💎：
-    - 探索遗迹能为你提供更进一步的可能性 🔍。
-    - 遗迹战利品箱中，有几率刷出超稀有的强力附魔 🔮，是无法通过常规方式得到的特殊力量。
+### ⚔️【Dynamic Challenges - Trials That Come For You】
+- **Elites Scale With You** 🐉: Elite monster strength and spawn rates are directly linked to your skill levels, providing an optional growth path from early to endgame. They can drop tools with more attributes and Elite Coins 💰, used to enhance the unique reputation system, offering considerable combat rewards.
+- **Intelligent Challenge Mechanics** 🤖: The system has anti-farming mechanisms; abnormal behavior detection will cancel rewards ❌. Team challenges are recommended; the system fairly distributes rewards based on damage sources, ensuring a cooperative experience.
+- **Regular Blood Moon Cataclysms** 🌕: Occurring every five days, the Blood Moon increases the strength of all monsters in the world and doubles monster spawn rates, fully testing your survival skills ⚠️.
 
 ---
 
-## ⚔️🐣 战斗与养成：你的无限可能
-- **多元战斗** 🔫：集成简易枪械，提供截然不同的战斗选择。
-- **RPG属性** 📊：完整的攻、防、暴击、闪避体系，让你自由组建搭配流派玩法。
-- **视觉享受** ✨：技能与攻击搭配有绚丽的粒子特效，大幅提升战斗的视觉表现力。
-- **忠实伙伴** 🐾：招募宠物，与你并肩作战。
-- **海量附魔** 📜：两大附魔插件叠加，提供 **100+ 全新效果**，丰富你的装备搭配。
-- **休闲一刻** 🍺：酿酒系统让你在征伐间隙，享受酿造佳酿的宁静。
+## 🗺️ World Exploration: Unknown Lands with Hidden Opportunities
+- **Expanded World** 🌄: More terrains and dense structures make exploration full of unknowns.
+- **Unique Treasures in Structures** 💎:
+    - Exploring structures can provide you with possibilities for further advancement 🔍.
+    - Structure loot chests have a chance to spawn super rare, powerful enchantments 🔮 - special powers unobtainable through conventional means.
 
 ---
 
-## 🏡🌐 目标、社交与开荒
-- **地标系统** 📍：玩家可以创建属于自己的地标并公开给所有玩家。打造你的传奇家园或奇观，供全服玩家参观拜访。
-- **称号系统** 🏆：获取独一无二的称号，彰显你的实力与荣耀。
-- **每日任务** 📅：为开荒期提供明确目标与稳定奖励，是获取更多资源的额外途径，更有专属任务奖励等你来领 🎁。
+## ⚔️🐣 Combat & Development: Your Infinite Possibilities
+- **Diverse Combat** 🔫: Integrated simple firearms provide completely different combat options.
+- **RPG Attributes** 📊: A complete system of attack, defense, critical hits, and dodge lets you freely build and combine playstyles.
+- **Visual Enjoyment** ✨: Skills and attacks are accompanied by dazzling particle effects, greatly enhancing the visual performance of combat.
+- **Loyal Companions** 🐾: Recruit pets to fight alongside you.
+- **Vast Enchantments** 📜: Two major enchantment plugins combined offer **100+ new effects**, enriching your equipment combinations.
+- **Leisure Moments** 🍺: The brewing system lets you enjoy the tranquility of crafting fine beverages between your campaigns.
+
+---
+
+## 🏡🌐 Goals, Social & Starting Out
+- **Landmark System** 📍: Players can create their own landmarks and make them public for all players. Build your legendary home or wonder for all server players to visit.
+- **Title System** 🏆: Obtain unique titles to showcase your strength and glory.
+- **Daily Quests** 📅: Provide clear objectives and stable rewards during the starting phase, serving as an additional way to obtain more resources, with exclusive quest rewards waiting for you 🎁.
