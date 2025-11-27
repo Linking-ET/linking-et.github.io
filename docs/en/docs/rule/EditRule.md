@@ -65,7 +65,7 @@ BV: BV1GJ411x7h7
 
 3. For sequential lists, use ordered lists instead of unordered lists
 
-   - Example: [Join Server](/en/docs/guide) is a typical example of incorrect usage
+   - Example: [Join Server](../guide) is a typical example of incorrect usage
 
 4. After updating an article, please clear residual information from the previous version to avoid leaving outdated content
 
