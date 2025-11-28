@@ -31,7 +31,6 @@ export const nav: DefaultTheme.NavItem[] = [
         text:'Rules',
         items: [
             { text: 'Content Edit Rule', link:'/en/docs/rule/EditRule'},
-            { text: 'Appropriate Messaging', link:'/en/docs/rule/MsgRule'},
         ]
     },
     {
