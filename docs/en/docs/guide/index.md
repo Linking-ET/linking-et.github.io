@@ -59,4 +59,8 @@ And two server entry channels:
 
   - Create an offline account within the launcher.
 
+> [!warning]The offline account setup is intended for users within the Chinese Mainland.
+> If you're located outside of The Chinese Mainland
+> Please be aware that the steps for creating an offline account may not apply to you.
+
 <BVideo />
