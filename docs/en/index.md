@@ -7,16 +7,16 @@ comment: false
 hero:
   name: "LinKing-ET"
   text: "Welcome to LET Server Group!"
-  tagline: "Wait what?"
+  tagline: "Link Everything!"
   image:
     src: /res/img/cover_full.webp
     alt: VitePress
   actions:
     - theme: brand
-      text: "about us"
-      link: /en/docs/info
+      text: "About"
+      link: /en/docs/about
     - theme: alt
-      text: "guide"
+      text: "Guide"
       link: /en/docs/guide
     - theme: sponsor
       text: STATUS……
@@ -28,7 +28,7 @@ features:
     details: Stay Lazy...
     link: /en/docs/kimi
     linkText: Kick it
-  - title: Freshwater region
+  - title: Freshwater's region
     details: Really water?
     link: /en/docs/water
     linkText: Water it

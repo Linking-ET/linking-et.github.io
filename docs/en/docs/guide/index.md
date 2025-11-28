@@ -1,58 +1,66 @@
 ---
 layout: doc
 outline: [2,3]
+copyright: true
+BV: "BV136LUz5E3o"
 ---
-# Enter Server
+# Joining Server
 
-## 1. First time?
-LinKing-ET offered 3 kinds of auth methods:
+## First Time?
+The LinKing-ET group server provides three verification methods:
 
-- bedrock edition
-- Java online/**third party**
-- Java offline
+- Bedrock Edition
+- Java Premium Account
+- Java Offline Account
 
-With two ips:
+And two server entry channels:
 
-> cn ip： **cn.link-et.link** <a id="ip"></a><br>
-> hk ip： **www.link-et.link**
+> Chinese Line: **mc.link-et.link** <a id="ip"></a><br>
+> Hong Kong Special Line: **hk.link-et.link** (Temporarily suspended)<br>
+> Bedrock Entry: ***(Stay tuned)***
 
-## 2.before auth:
+## Preparations Before Joining
 
-### 2.1 bedrock edition
-working in progress
+  ### Bedrock Edition
+  - The server automatically updates Geyser. Use the latest version to join. If there's a version abnormality, join the group and ask an admin to update it.
 
-### 2.2 Java edition
-- Choose your launcher. We don't care whether it's default launcher or prism or modrinth, choose it yourself
-- In[客户端下载](/en/docs/guide/modpack)you can access the modpack of the server you want to join.
+  ### Java Edition
+  - Choose a launcher based on your device; this is entirely personal preference. For phones, options include FCL (🟢), Projav (🟡), HMCL-PE (🔴), etc. For Windows PCs, options include Mdrinth, Prism, and other excellent launchers. For Mac and Linux PCs, choose cross-platform launchers like multimc that run as jar files.
+  - Visit [Client Download](/docs/guide/modpack) to get the modpack for the server you want to play and install it in the launcher.
 
-## 3. 进服步骤
+## Steps to Join the Server
 
-### 3.1 基岩版
-- 启动你的**基岩版**
-  （图片施工中）
-- 点击**游戏**进入存档界面
-  （图片施工中）
-- 点击**服务器**以添加服务器
-  （图片施工中）
-- 点击**添加服务器**，通常会显示以下画面：
-  （图片施工中）
-- 在**名字**中随意输入一个你想起的名字，例如 ***!!仅做示范，不要照抄!!***
-  （图片施工中）
-- 在**地址**一栏中键入上述[两个ip](#ip)的其中一个  （图片施工中）
-- 端口保持**19132**，现在可以进服游玩了
-  （图片施工中）
-> [!CAUTION]警告
-> 基岩版玩家应该会**自动登录**，如果进服后需要**注册/登录**，请立即联系管理员！
+  ### Bedrock Edition
+  - Start your **Bedrock Edition**
+  ![Bedrock Edition](/res/img/guide/index/bedrock/frame_000000109.webp =500x360)
+  - Click **Play** to enter the worlds interface.
+  ![Bedrock Edition](/res/img/guide/index/bedrock/frame_000000250.webp =500x360)
+  - Click **Servers** to add a server.
+  ![Bedrock Edition](/res/img/guide/index/bedrock/frame_000000293.webp =500x360)
+  - Click **Add Server**. The following screen usually appears:
+  ![Bedrock Edition](/res/img/guide/index/bedrock/frame_000000357.webp =500x360)
+  - In **Server Name**, enter any name you like, e.g., ***!!Example only, don't copy exactly!!***
+  ![Bedrock Edition](/res/img/guide/index/bedrock/frame_000000822.webp =500x360)
+  - In the **Server Address** field, type one of the two IPs mentioned [above](#ip).
+  ![Bedrock Edition](/res/img/guide/index/bedrock/frame_000000906.webp =500x360)
+  - Keep the **Port** as **19132**. You can now join and play.
+  ![Bedrock Edition](/res/img/guide/index/bedrock/frame_000001017.webp =500x360)
 
-## 3.2 Java 验证登录
--下述两个方法较为推荐，由于通过认证服务器，盗号几率极小
 
-  ### 3.2.1 Java正版
-  - 首先你需要一个正版
-  - 在启动器中登录正版，然后启动游戏
+  ### Java Premium Account
 
-  ### 3.2.2 Java皮肤站
-  -请在完成[离线登录](#offline)之后再来完成这步
+  - First, you need a premium account.
 
-## 3.3 Java 离线登录<a id="offline"></a><br>
--启动器内创建一个离线账户
+  - Log into the premium account in the launcher, then start the game.
+
+  - Go to the Multiplayer screen, add a server, and enter the IP address.
+
+  ### Java Offline Login <a id="offline"></a><br>
+
+  - Create an offline account within the launcher.
+
+> [!warning]The offline account setup is intended for users within the Chinese Mainland.
+> If you're located outside of The Chinese Mainland
+> Please be aware that the steps for creating an offline account may not apply to you.
+
+<BVideo />

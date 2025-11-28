@@ -15,8 +15,8 @@ const coreMembers_owners = [
     {
     avatar:'/res/avatar/1749393192-Kimimustbe29.webp',
     name: 'Kimimaybe29',
-    title: 'Kimi的万事屋服主',
-    desc: '群组服最大金主<br>神级屎山代码之手<br>欢迎来我的个人网站看看<br>↓',
+    title: "Owner of Kimi's wonderland",
+    desc: 'Biggest sponsor of the group<br>Master of Spaghetti Code<br>Go check out my personal website<br>↓',
     links: [
         {icon: 'github', link: 'https://github.com/Kimimaybe29' },
         {icon: 'twitter', link: 'https://x.com/Kimimaybe29'},
@@ -28,8 +28,8 @@ const coreMembers_owners = [
     {
     avatar:'https://avatars.githubusercontent.com/u/80152431',
     name: 'Lorien Yang',
-    title: '网站技术',
-    desc: '皮肤站站长<br>论坛站长<br>前端最为出色',
+    title: 'Website Technology',
+    desc: 'WebMaster of Skin Station<br>WebMaster of Forum Station<br>Most skilled in front-end',
     links: [
         {icon: 'github', link: 'https://github.com/lorienyang' },
         {icon: 'vitepress', link: 'https://www.sakuraonline.cn' },
@@ -38,9 +38,9 @@ const coreMembers_owners = [
     },
     {
     avatar:'https://avatars.githubusercontent.com/u/189126940',
-    name: 'XC小陈',
-    title: '技术主管',
-    desc: '群组主技术<br>开服经验较长<br>协调与解决问题较为出色',
+    name: 'XCHEN446',
+    title: 'Main Maintainer',
+    desc: 'Main technician for the group<br>Long experience in running servers<br>Excels at coordination and problem-solving',
     links: [
         {icon: 'bilibili', link: 'https://space.bilibili.com/621908460' },
         {icon: 'github', link: 'https://github.com/XChen446'},
@@ -50,9 +50,9 @@ const coreMembers_owners = [
     },
     {
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=693361027&s=640',
-    name: '淡水',
-    title: '淡水之域服主',
-    desc: '可能是杂鱼？<br>（ps:EchoFisher）',
+    name: 'FreshWater',
+    title: "Owner of FreshWater's Region",
+    desc: 'Might be a small cookie?<br>（ps:EchoFisher）',
     links:[
         {icon: 'bilibili', link: 'https://space.bilibili.com/1854567057' },
         {icon: 'github', link: 'https://github.com/Freshwater111'}
@@ -61,17 +61,17 @@ const coreMembers_owners = [
     {
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1643115033&s=640',
     name: '柠言千枫',
-    title: '叶服金主',
-    desc: '君主离线制<br>（ps:XC-小陈）',
+    title: 'Sponsor of Leaf Page',
+    desc: 'Disconnected Monarchy<br>（ps:XCHEN446）',
     links:[
         {icon: 'bilibili',link: 'https://space.bilibili.com/473233505'}
     ]
     },
     {
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1634765962&s=640',
-    name: '水萝卜_CafeChannel',
-    title: '萝服服主',
-    desc: '欸？',
+    name: 'WaterCarrot_CafeChannel',
+    title: 'Owner of WaterCarrot',
+    desc: 'Huh?',
     links:[]
     }
 ];
@@ -79,8 +79,8 @@ const coreMembers_ops = [
     {
     avatar:'https://q1.qlogo.cn/g?b=qq&nk=3556314884&s=640',
     name: 'ElfPlayer887454',
-    title: '蘿蔔服管理员',
-    desc: '是只人畜无害的管理喵（？',
+    title: 'Admin of WaterCarrot',
+    desc: 'Is a harmless admin cat (?)',
     links: [
         {icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
     ]
@@ -88,8 +88,8 @@ const coreMembers_ops = [
     {
     avatar:'https://q1.qlogo.cn/g?b=qq&nk=1437727100&s=640',
     name: 'EchoFisher',
-    title: '淡水之域管理员',
-    desc: '小猫梁来点腿子（×）',
+    title: "Admin of FreshWater's Region",
+    desc: 'Little Catgirl, give me some porns (×)',
     links: [
         {icon: 'bilibili', link: 'https://space.bilibili.com/443837932' }
     ]
@@ -97,8 +97,8 @@ const coreMembers_ops = [
     {
     avatar:'https://q1.qlogo.cn/g?b=qq&nk=2907331904&s=640',
     name: '@M.T',
-    title: 'TOC吉祥物（？）',
-    desc: '芜↑？',
+    title: 'TOC Mascot (?)',
+    desc: 'Woo↑?',
     links: [
         {icon: 'bilibili', link: 'https://space.bilibili.com/1473710310'}
     ]
@@ -108,17 +108,17 @@ const coreMembers_ops = [
 
 <VPTeamPage>
   <VPTeamPageTitle>
-    <template #title>核心成员名单</template>
+    <template #title>Core Member List</template>
     <template #lead> </template>
   </VPTeamPageTitle>
 <VPTeamPageSection>
-    <template #title>服主名单</template>
+    <template #title>Server Owner List</template>
     <template #members>
       <VPTeamMembers size="medium" :members="coreMembers_owners"></VPTeamMembers>
     </template>
 </VPTeamPageSection>
 <VPTeamPageSection>
-    <template #title>管理名单</template>
+    <template #title>Admin List</template>
     <template #members>
       <VPTeamMembers size="small" :members="coreMembers_ops"></VPTeamMembers>
     </template>

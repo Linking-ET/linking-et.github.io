@@ -16,7 +16,7 @@ LinKing-ET群组服提供了三种验证方式:
 同时有两条进服通道:
 
 > 国内线路： **mc.link-et.link** <a id="ip"></a><br>
-> 港区专线： **hk.link-et.link** (暂时停用)
+> 港区专线： **hk.link-et.link** (暂时停用)<br>
 > 基岩入口： ***（待开放）***
 
 ## 进服前准备

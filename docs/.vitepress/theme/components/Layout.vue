@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import {useData, useRoute} from 'vitepress'
+import {useData} from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import {computed, nextTick, provide} from 'vue'
+import { nextTick, provide} from 'vue'
 import HomePage from "./HomePage.vue";
 import Footer from "./Footer.vue";
 
@@ -39,8 +39,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
       }
   )
 })
-const route = useRoute()
-const isHomePage = computed(() => route.path === '/' || route.path === '/en/');
+
 </script>
 
 <template>
@@ -56,7 +55,7 @@ const isHomePage = computed(() => route.path === '/' || route.path === '/en/');
       <slot :name="name" v-bind="slotProps" />
     </template>
     <template #layout-bottom>
-      <Footer v-if="isHomePage" />
+      <Footer/>
     </template>
   </DefaultTheme.Layout>
 </template>
