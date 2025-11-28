@@ -17,7 +17,7 @@ And two server entry channels:
 
 > Chinese Line: **mc.link-et.link** <a id="ip"></a><br>
 > Hong Kong Special Line: **hk.link-et.link** (Temporarily suspended)<br>
-> Bedrock Entry: ***(Pending Opening)***
+> Bedrock Entry: ***(Stay tuned)***
 
 ## Preparations Before Joining
 
@@ -58,5 +58,9 @@ And two server entry channels:
   ### Java Offline Login <a id="offline"></a><br>
 
   - Create an offline account within the launcher.
+
+> [!warning]The offline account setup is intended for users within the Chinese Mainland.
+> If you're located outside of The Chinese Mainland
+> Please be aware that the steps for creating an offline account may not apply to you.
 
 <BVideo />
