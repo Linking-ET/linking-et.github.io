@@ -17,7 +17,7 @@ And two server entry channels:
 
 > Chinese Line: **mc.link-et.link** <a id="ip"></a><br>
 > Hong Kong Special Line: **hk.link-et.link** (Temporarily suspended)<br>
-> Bedrock Entry: ***(Pending Opening)***
+> Bedrock Entry: ***(Stay tuned)***
 
 ## Preparations Before Joining
 
