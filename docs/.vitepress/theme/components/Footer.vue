@@ -10,6 +10,7 @@
       <p class="vp-footer-powered-by">
         Powered by <a href="https://vitepress.dev/" target="_blank" rel="noopener">VitePress</a>.
       </p>
+        <TrustLogo/>
     </div>
   </footer>
     <footer class="vp-footer" v-if="isEnHomePage">
@@ -23,6 +24,7 @@
             <p class="vp-footer-powered-by">
                 Powered by <a href="https://vitepress.dev/" target="_blank" rel="noopener">VitePress</a>.
             </p>
+            <TrustLogo/>
         </div>
     </footer>
 </template>
@@ -30,6 +32,7 @@
 <script setup>
 import {computed, ref} from 'vue';
 import {useRoute} from "vitepress";
+import TrustLogo from "./TrustLogo.vue";
 
 const currentYear = ref(new Date().getFullYear());
 
@@ -74,5 +77,9 @@ const isEnHomePage = computed(() => route.path === '/en/');
 
 .vp-footer-powered-by a:hover {
   text-decoration: underline;
+}
+
+.trust-badge {
+    margin-top: 8px;
 }
 </style>
