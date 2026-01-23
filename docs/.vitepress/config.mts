@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import {defineConfig} from 'vitepress'
 //引入ZH配置文件
 import {nav} from '../config/zh/nav'
 import {sidebar} from '../config/zh/sidebar'
@@ -8,10 +8,7 @@ import {nav as ENNav} from '../config/en/nav'
 import {sidebar as ENSidebar} from '../config/en/sidebar'
 import {CustomTexts as ENCustomTexts} from '../config/en/CustomTexts'
 
-import {
-  GitChangelog,
-  GitChangelogMarkdownSection,
-} from '@nolebase/vitepress-plugin-git-changelog/vite'
+import {GitChangelog, GitChangelogMarkdownSection,} from '@nolebase/vitepress-plugin-git-changelog/vite'
 import imsize from 'markdown-it-imsize'
 import UnoCSS from 'unocss/vite'
 
@@ -35,8 +32,11 @@ export default defineConfig({
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', '${GA_MEASUREMENT_ID}');
-      `]
+      `],
   ],
+    body:[
+
+    ],
   locales:{
     root:{
       label:"简体中文",
